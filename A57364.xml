@@ -1,0 +1,1450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The secrets of the famous Lazarus Riverius, councellor &amp; physician to the French king, and professor of physick in the University of Montpelier newly translated from the Latin by E.P., M.D.</title>
+            <title>Selections. English. 1685</title>
+            <author>Rivière, Lazare, 1589-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 123 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57364</idno>
+            <idno type="STC">Wing R1565</idno>
+            <idno type="STC">ESTC R12068</idno>
+            <idno type="EEBO-CITATION">12388176</idno>
+            <idno type="OCLC">ocm 12388176</idno>
+            <idno type="VID">60906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 225:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The secrets of the famous Lazarus Riverius, councellor &amp; physician to the French king, and professor of physick in the University of Montpelier newly translated from the Latin by E.P., M.D.</title>
+                  <title>Selections. English. 1685</title>
+                  <author>Rivière, Lazare, 1589-1655.</author>
+                  <author>Prat, E.</author>
+               </titleStmt>
+               <extent>[9], 124, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Brown ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisements: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60906:1" rendition="simple:additions"/>
+            <pb facs="tcp:60906:1" rendition="simple:additions"/>
+            <p>THE SECRETS Of the Famous <hi>LAZAR<g ref="char:V">Ʋ</g>S RIVERI<g ref="char:V">Ʋ</g>S, Councellor</hi> &amp; <hi>Phyſician</hi> To the FRENCH KING, And <hi>PROFESSOR</hi> of PHYSICK In the UNIVERSITY of MONTPELIER.</p>
+            <p>Newly Tranſlated from the Latin, by <hi>E. P.</hi> M. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Daniel Brown,</hi> at the <hi>Black Swan</hi> and <hi>Bible</hi> without <hi>Temple-Barr.</hi> MDCLXXXV.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:60906:2"/>
+            <pb facs="tcp:60906:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou art here preſented with the Secrets of that ever re<g ref="char:EOLhyphen"/>nown'd Phyſitian, <hi>Laza<g ref="char:EOLhyphen"/>rus Riverius,</hi> whoſe other Works, publiſh'd firſt in Latin, and then in our own Language, I believe thou art very ſenſible that they were like good Wine, needing
+<pb facs="tcp:60906:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:60906:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:60906:4"/>no Buſh; for at the firſt comming forth of his Practice of Phyſick in the Latin Language; many eminent Phyſitians in <hi>England,</hi> and other parts made it their <hi>Cy<g ref="char:EOLhyphen"/>noſura</hi> and ſteer'd their Practice wholly by it; as the Mariner ſails by his Compaſs: for in thoſe days, before it was tranſlated into Eng<g ref="char:EOLhyphen"/>liſh; you might ſee the Apotheca<g ref="char:EOLhyphen"/>ries files fill'd with <hi>Recipe's,</hi> tranſ<g ref="char:EOLhyphen"/>ſcrib'd out of his Book almoſt <hi>ver<g ref="char:EOLhyphen"/>batim, &amp; ad amuſſim,</hi> ſcarce any alteration at all, or what's worth the taking notice of, being made in their preſcriptions; and at this very day I can aſſure you there are very able Phyſitians in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and other parts (without making compariſons) that ſtill
+<pb facs="tcp:60906:4"/>adhere to, and have a greater eſtee<g ref="char:EOLhyphen"/>mation of, and veneration for him, than for <hi>Willis,</hi> the <hi>London Practice of Phyſick,</hi> &amp;c. and other later Books. Now as concerning theſe his <hi>Arcanum's,</hi> they were publiſh'd in Latin, as it ſeems, by an Honeſt, Ingenious and Con<g ref="char:EOLhyphen"/>ſcionable Scholar of his; who was not willing the World ſhould be depriv'd, of ſuch a rich Cabinet, conteining ſo many precious Jew<g ref="char:EOLhyphen"/>ells; and if any one ſhall object any thing as to the laboriouſneſs of theſe, above other operations yet extant; they are deſired to conſider; that their excellent Virtues and eximious Qualities, will countervale, equally ballance and recompence, all that; always
+<pb facs="tcp:60906:5"/>remembring the old ſaying, <hi>Dii laborantibus omnia vendunt; &amp; labor improbus omnia vincit.</hi> And this is all, Reader I hope I need to ſay in behalf of this piece; little truly in it ſelf; but will't find, without doubt, to be great in its worth; ſo I bid thee <hi>Adieu,</hi> as alſo becauſe I would never have too great Gate made for a little City; and ſo I ſay again Fare<g ref="char:EOLhyphen"/>well.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60906:5"/>
+            <head>THE SECRETS OF <hi>Laz. Riverius,</hi> &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>His Tincture of GOLD.</hi>
+               </head>
+               <p>SINCE there are more then a good many <hi>Recipés</hi> of <hi>Aurum potabile</hi> ex<g ref="char:EOLhyphen"/>tant, in the World, which by ſome are denominated the <hi>Eſſences</hi> of Gold; <hi>&amp;c.</hi> I have a mind, in like manner, to de<g ref="char:EOLhyphen"/>ſcribe one after my moſt Honoured and
+<pb n="2" facs="tcp:60906:6"/>Learned Maſter <hi>Riverius</hi>'s method and manner, as one of thoſe to whom I doubt<g ref="char:EOLhyphen"/>ed not, in the leaſt, to ſtand by, and truſt to, after the example of my aforeſaid Ma<g ref="char:EOLhyphen"/>ſter, and alſo of the very Learned and excellent Artiſt <hi>Peter John Faber;</hi> under whoſe Diſcipline I firſt learned my Chy<g ref="char:EOLhyphen"/>mical Operations; and many of his very excellent Secrets.</p>
+               <p>Other Artiſts diſſolve Gold, making not, in the leaſt, any preparation, or diſ<g ref="char:EOLhyphen"/>poſition thereunto before hand; but our method is performed after this manner.</p>
+               <p>Take of the pureſt Plate-Gold, and cal<g ref="char:EOLhyphen"/>cine it thrice with Antimony; always ad<g ref="char:EOLhyphen"/>ding thereto Crude Antimony; then ſe<g ref="char:EOLhyphen"/>parate it from the Cinders which will be very apparent; and being mundiſied diſ<g ref="char:EOLhyphen"/>ſolve them in <hi>Aqua regia</hi> after the uſual manner of diſſolutions. Upon the diſſolu<g ref="char:EOLhyphen"/>tions ſprinkle Oil of <hi>Tartar</hi> made by <hi>de<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> drop by drop; and ſo the Gold will be precipitated to the bottom; then the water being drawn off by decantation; ſee you take away the acrimony by often ablutions with clear, ſweet, common water: Then dry it either in the Sun,
+<pb n="3" facs="tcp:60906:6"/>or upon warm Cinders; but be ſure you beware of the Fire, for it's now <hi>Aurum fulminans.</hi> Afterwards diſſolve the Powder in Spirit of Salt, and our Spirit of Vi<g ref="char:EOLhyphen"/>triol, keeping it in a heat for the ſpace of one month; and by that time it will com<g ref="char:EOLhyphen"/>municate its whole Tincture to the ſaid Spirits. Separate the half, adding a new Spirit till it be tinctur'd; and to every Ounce of the tinctur'd Spirit, add a drachm of the volatile Salt of Tartar diſ<g ref="char:EOLhyphen"/>ſolv'd, digeſting it in a warm place for the ſpace of fifteen days; then add all theſe again to the Powder, which then re<g ref="char:EOLhyphen"/>mains in the bottom of the Veſel; put it into a Glaſs-houſe Furnace for <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of two months, with a gentle Fire at firſt, augmenting the hear by litle <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>; for at fifteen days end they will all become of the conſiſtence of a ſtone; then after two months, let them be put in a moiſt place, in an Egg, as the cuſtom is, till they be diſſolv'd; thus you have the true, exact and genuine proceſs of our <hi>Aurum po<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le.</hi>
+               </p>
+               <div type="uses">
+                  <pb n="4" facs="tcp:60906:7"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THE Virtues of this our ſo great a Secret very far excel all others; for it corroborates the Heart, the Brain, the Liver, and all the parts of our Body; but thoſe parts eſpecially whoſe duty, fa<g ref="char:EOLhyphen"/>culty, and functions are to attract, alter, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nouriſh, ſeparate, expel, <hi>&amp;c.</hi> By this the pture Balſame of life is upheld; by this it's preſerv'd in its Youthful ſtate; its Spirits are augmented, and old Age retarded; and laſtly it ſo orders affairs that the Humors corrupt not one another. So that it's pro<g ref="char:EOLhyphen"/>per in all kind of Diſeaſes, both by rea<g ref="char:EOLhyphen"/>ſon of the Gold, and alſo of the ſix'd Salts, which diſſolves all impurities of the Body by tranſpiration; it's given in certain ap<g ref="char:EOLhyphen"/>propriate Liquors from five drops to eight, for one doſe.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="5" facs="tcp:60906:7"/>
+               <head>CHAP. II. <hi>His Tincture of SILVER.</hi>
+               </head>
+               <p>BEcauſe what's written of Gold, chal<g ref="char:EOLhyphen"/>lengeth to its ſelf, the Firſt place in Value and Vertue; In the next place, I put our Tincture of Silver; as coming nigheſt to the other, not only in Price but in Virtue alſo. Its proceſs is perform'd after this manner and method following.</p>
+               <p>Take of the pureſt Plate-Silver, and diſ<g ref="char:EOLhyphen"/>ſolve it in <hi>Aqua fortis;</hi> and ſee you preci<g ref="char:EOLhyphen"/>pitate it with Oil of <hi>Tartar;</hi> then ſhall you waſh it with common Water; then dry it, and extract a Tincture with the aforementioned Liquors after the very ſame manner and method, as aforegoing in the proceſs of Gold, and at length diſſolve it, as aboveſaid.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>INnumerable are the Virtues of this Tincture of Silver; eſpecially in Ca<g ref="char:EOLhyphen"/>pital Diſeaſes; for it is very effectual in
+<pb n="6" facs="tcp:60906:8"/>the <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pilepſie</hi> although it be of a long ſtanding, in the <hi>Vertigo,</hi> in the <hi>Megrim, Pally,</hi> and all other Diſeaſes proceeding from <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ion of the Brain. For as it the Macrocoſm, or great World, <hi>Sibver</hi> is called <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Brain of the World; So this Tinc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure is a true, and powerful remedy againſt Diſeaſes of the Brain. It more over wonderfully helps Hectical and Pthi<g ref="char:EOLhyphen"/>ſical perſons, if it be given with other ſpe<g ref="char:EOLhyphen"/>ciſies, eſpecially with our potable Gold, before deſcrib'd; it's given in Waters ap<g ref="char:EOLhyphen"/>propriate to the Diſeaſe, as for example, in the <hi>Falling-ſickneſs,</hi> in Swallows Water, from five, to ſeven drops, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>His Tincture of Jupirer, or TIN.</hi>
+               </head>
+               <p>COncerning <hi>Tin,</hi> many write of a Salt made thereof; but few have had the happineſs to attain to the true and ge<g ref="char:EOLhyphen"/>nuine manner and method of its operati<g ref="char:EOLhyphen"/>on:
+<pb n="7" facs="tcp:60906:8"/>So that in lieu of Salt of <hi>Jupiter,</hi> or Tin, they'l extract the Salt of <hi>Saturn,</hi> or Lead; as plainly appears in moſt of our great, boaſting Profeſſors at this day; who are not able to produce any ſubſtance from <hi>Tin;</hi> Now our Tincture is made af<g ref="char:EOLhyphen"/>ter this manner following.</p>
+               <p>Take pure <hi>Tin</hi> without Lead, and cal<g ref="char:EOLhyphen"/>cine it in the Fire, in an Iron Veſſel, con<g ref="char:EOLhyphen"/>tinually ſtiring it with an Iron <hi>Spa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hula</hi> till it be reduc'd to a Powder; and it will wax white with the heat of the Furnace, then put it into a Glaſs-houſe Furnace for a month, with a very vehement Fire; or into a Reverberatory Fire, for ſeven days toge<g ref="char:EOLhyphen"/>ther; afterwards digeſting it with a gentle heat, in diſtill'd Vinegar, ſeparate the green Tincture, which will tinge; and this being taken away, put your Vinegar to the calcin'd Tin into a luted Retort, diſtilling it ſeven times; always adding new diſtill'd Vinegar: Digeſt the diſtill'd part with the ſame Calx in a warm place for many days together; then ſiltre and diſtil it to a dryneſs; adding <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Wine well rectified, and alcooli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted to that which is ſixt mat<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:60906:9"/>ſhall diſſolve the Tincture; but take no<g ref="char:EOLhyphen"/>tice you ſhall put only ſo much of the Spirit, as will diſſolve the fixt matter. Afterwards digeſt it for eight days, for by that time the Spirit being ſeparated, the Tincture will remain in the bottom, which indeed is marvelous.</p>
+               <p>
+                  <hi>Note.</hi> You will not find any ſuch clear and ſincere Receipts as theſe; for I lay down nothing, but what I have illuſtra<g ref="char:EOLhyphen"/>ted by frequent Operations.</p>
+               <div type="uses">
+                  <head>Vertues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis Tincture is wonderfully bene<g ref="char:EOLhyphen"/>ficial for all kinds of Diſeaſes; for as <hi>Jupiter</hi> derives his Name <hi>à juvando,</hi> from helping; ſo that this Tincture helps all Diſeaſes, both inward and outward. <hi>In<g ref="char:EOLhyphen"/>wardly</hi> it obtains the firſt place in Diſeaſes of the Womb, although incorrigible: For it Comforts, Strengthens and Mundifies it from impure and corrupt Seeds, which produce ſo many various Diſeaſes; it alſo ſuccors the <hi>Brain, Heart, Liver,</hi> and <hi>Hy<g ref="char:EOLhyphen"/>pochondria's,</hi> and given with Specifies, it much profits Hectical and Pthyſical perſons.
+<pb n="9" facs="tcp:60906:9"/>
+                     <hi>Outwardly</hi> it bridles and checks any acri<g ref="char:EOLhyphen"/>monious humor in Wounds; and ſweet<g ref="char:EOLhyphen"/>ens it; and brings them to their perfect integrity. 'Tis given with Liquors, from a Scruple to half a Drachm, for one doſe.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>His Tincture, or Eſſence of MARS.</hi>
+               </head>
+               <p>THere are already very many Reme<g ref="char:EOLhyphen"/>dies extant from the very many preparations of <hi>Mars,</hi> or <hi>Iron,</hi> though a Tincture of the nature of this of ours be in uſe but by very few; and yet it is one of the moſt excellent, though it be the moſt laborious of all others; its proceſs is as follows.</p>
+               <p>Take filings of Iron, and being very well fir'd in a Crucible, extinguiſh them with diſtill'd Vinegar, and this do more then thirty times, then make them boil in the ſaid Vinegar. And, while 'tis warm, fil<g ref="char:EOLhyphen"/>tre them through a Paper; dry your Filings,
+<pb n="10" facs="tcp:60906:10"/>and ſiring them again, as before, in Crucible, quench them with diſtill'd Vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>negar, as aboveſaid: Which rule after yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have repeated thrice, you ſhall then diſti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your ſiltrated Vinegars to a dryneſs; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then add thereto Spirit of Wine; and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the reſt of the proceſs, you ſhall ob<g ref="char:EOLhyphen"/>ſerve the ſame order as in the Tinctur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Jupiter.</hi>
+               </p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Deſes.</head>
+                  <p>THis Tincture is a great Cordial, ſtrengthening the parts, and open<g ref="char:EOLhyphen"/>ing obſtructions: For it is excellent above other remedies in all Fluxes, as <hi>Dyſenteries Diarra'heas,</hi> and <hi>Iaenteries, &amp;c.</hi> and all im<g ref="char:EOLhyphen"/>moderate monthly and white Fluxes in Women; <hi>Gonorhaeas,</hi> ſpittings of Blood, Fluxes of Blood, either at Noſe, or <hi>He<g ref="char:EOLhyphen"/>morrhoides;</hi> in all ſudden Fluxions in any part of the Body. It ſuffers no Corrup<g ref="char:EOLhyphen"/>tion in any manner of Wounds; and heals them in a very ſhort time; it mun<g ref="char:EOLhyphen"/>diſies and heals Wounds and Ulcers; it is given in ſpecifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cordials from a Scruple to half a Drachm.</p>
+                  <pb n="11" facs="tcp:60906:10"/>
+                  <p>
+                     <hi>Note.</hi> After the ſame manner are made the Tinctures of <hi>Lapis Hamatitis, Sanguis Draconis, &amp;c.</hi> which are Remedies appro<g ref="char:EOLhyphen"/>priate to the Blood.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>His <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of MERC<g ref="char:V">Ʋ</g>RY.</hi>
+               </head>
+               <p>SUblimate your <hi>Mercury</hi> thrice, accord<g ref="char:EOLhyphen"/>ing to the common manner, with <hi>Vitriol</hi> and <hi>Nitre;</hi> and thence ſeparate a moſt pure Chryſtal; which you ſhall after<g ref="char:EOLhyphen"/>wards ſublimate again leven times, with common white Salt very well decrepita<g ref="char:EOLhyphen"/>ted; and being very well bruis'd put it into a Glaſs Veſſel, with Spirit of Salt very well rectiſied, which muſt be ſix fingers bredth above the Salt: Being ſeal'd, digeſt in <hi>Balneo</hi> forty days; then ſeparate the Spirit by decantation; and powring new Spirit thereon digeſt again, for forty days more. Then ſeparate as aboveſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id; and if all the ſublimate be not diſſolv'd, infuſe
+<pb n="12" facs="tcp:60906:11"/>and digeſt anew, until almoſt nothing re<g ref="char:EOLhyphen"/>main in the bottom. All the Spirits be<g ref="char:EOLhyphen"/>ing digeſted, put them into a Retort very well luted; and with a Recipient diſtil them until white drops aſcend; then re<g ref="char:EOLhyphen"/>move them and cohobate the Spirit four times, always upon the <hi>Caput mortuum;</hi> making, towards the latter end, a more vehement Fire, till all becomes one: what remains of the fixt matter in the bottom calcine, ſo long until <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wax white, and become a Salt after the uſual manner. Diſtil the Spirit, and ſeparate until the Tincture remain in the bottom, which you ſhall join to its Salt, by a gentle Fire, that they may incorporate into one ſub<g ref="char:EOLhyphen"/>ſtance, then dulcifie it with Spirit of Wine, and digeſt it in the ſame, and ſeparate the Spirit; doing thus five times, that it may become dulcified.</p>
+               <div type="uses">
+                  <head>Vertues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis is a difficult Operation; but in recompence it eradicates all almoſt incurable Diſeaſes; and may be given to all Bodies, Sexes and Ages, in all kinds of
+<pb n="13" facs="tcp:60906:11"/>Diſeaſes; it mundifies all kinds of cor<g ref="char:EOLhyphen"/>rupt Diſeaſes producing malignancy in any part of the Body: It Operates with<g ref="char:EOLhyphen"/>out any trouble, diſturbance, hurt or da<g ref="char:EOLhyphen"/>mage to the Body; it preſerves and cheri<g ref="char:EOLhyphen"/>ſhes the natural Balſam of Life; it expells all impurities by inſenſible tranſpiration; it dryes up and conſumes Catarrhs proceed<g ref="char:EOLhyphen"/>ing from what cauſe ſoever: It cures ob<g ref="char:EOLhyphen"/>ſtructed and cachectic Bodies, cauſed from deprav'd, and naughty humors of the <hi>Hy<g ref="char:EOLhyphen"/>pochondria's,</hi> Womb, or corrupt Blood: It helps both hot and cold hyſterical per<g ref="char:EOLhyphen"/>ſons, by corroborating the Liver and other <hi>viſcera:</hi> It drives out either new or old in<g ref="char:EOLhyphen"/>fections proceeding from the <hi>Lues Vene<g ref="char:EOLhyphen"/>rea:</hi> It heals alſo <hi>Schyrrhus's,</hi> King's Evil, or ſuch pertinacious tumors: 'Tis admini<g ref="char:EOLhyphen"/>ſtred in Broths, or the yelks of Eggs, or Wine, from eight drops to ten, in a morn<g ref="char:EOLhyphen"/>ing, faſting.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="14" facs="tcp:60906:12"/>
+               <head>CHAP. VI. <hi>His Eſſence, or Tincture of CORAL.</hi>
+               </head>
+               <p>THERE are almoſt infinite <hi>Recipés,</hi> which teach how to draw a Tin<g ref="char:EOLhyphen"/>cture from <hi>Coral;</hi> and how to make its Salt: But for the moſt part they are de<g ref="char:EOLhyphen"/>ceived: And in lieu of a Tincture of the Coral, there appears a Tincture of other lagredients, (from the Efficacy of the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>) which uſe to be mixt there<g ref="char:EOLhyphen"/>with. Ours is this which follows, a very ſincere one, if it be artificially perform'd by an expert Operator.</p>
+               <p>Take Coral very ſmally pounded; and infuſe it in a Glaſs Veſſel in Vinegar which hath before extra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed the Tincture of An<g ref="char:EOLhyphen"/>timony; and was ſeparated therefrom by diſtribution; for there is nothing more ſit than this for <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rals, <g ref="char:V">Ʋ</g>nions, Crabs-eyes, Eggli<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>s, B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le-Ar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me, Lapis hematitis,</hi> and the like. Let the Vinegar ſwim ſix ſing<g ref="char:EOLhyphen"/>ers bredth uppermoſt; and let the <hi>Coral</hi>
+                  <pb n="15" facs="tcp:60906:12"/>be diſſolv'd for ſome days ſpace in an hot Balneo; and then diſtill the Vinegar to drineſs, then waſh the Powder ten or twelve times in Cordial Waters; until all acrimony, and the groſſer and car<g ref="char:EOLhyphen"/>thier parts be taken away, and it become very well du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciſy'd, and as clear as Chry<g ref="char:EOLhyphen"/>ſtal. Then dry it well and lay it up to be uſed, as ſhall be directed hereafter: Then take other Coral, and being mixt with equal quantity of <hi>Sal Armeniac,</hi> put them into a ſublimatory Veſſel to be ſubli<g ref="char:EOLhyphen"/>med; and the <hi>Sal Armoniac</hi> will attract all the redneſs from the Coral: Then put your <hi>Sal Armoniac,</hi> being rubiſyed, into Spirit of Wine, rectilyed and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chooliza<g ref="char:EOLhyphen"/>ted, in an hot Bath; and in ſew days the Spirit of Wine will attract to it ſelf all the Tincture; then ſeparate the Spirit by di<g ref="char:EOLhyphen"/>ſtillation, and there will remain an Eſ<g ref="char:EOLhyphen"/>ſence; to which you ſhall add the aforeſaid fix'd Powder, and this is your true, real and genuine <hi>Eſſence</hi> of Coral.</p>
+               <div type="uses">
+                  <pb n="16" facs="tcp:60906:13"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis is a Cordial, and a mundifier of the Blood, as may appear in Leprous perſons; 'tis given to all Bodies, and in all kinds of Diſeaſes; 'tis proper for Fluxes as hath been ſaid in the Eſſence of Mer<g ref="char:EOLhyphen"/>cury: It comforts the Heart and Stomach; reſtores the natural heat, and fortifies the radical moiſture; it diſſolves glotted Blood; it helps and cures venemous Wounds, and malignant and ſolid Ulcers: 'Tis given in Broth, the yelk of an Egg, Wine, Plan<g ref="char:EOLhyphen"/>tane-water; <hi>&amp;c.</hi> from half a Drachm to a Drachm.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>His Eſſence of PEARLS.</hi>
+               </head>
+               <p>OUR Eſſence of Pearls differs ſome<g ref="char:EOLhyphen"/>what from that which is common<g ref="char:EOLhyphen"/>ly deſcrib'd by others; and is this which followeth.</p>
+               <pb n="17" facs="tcp:60906:13"/>
+               <p>Digeſt your Pearls in Vinegar of Anti<g ref="char:EOLhyphen"/>mony, as before, and they will very quick<g ref="char:EOLhyphen"/>ly be diſſolv'd; then do as before in the Eſſence, or Tincture of Coral, until the Salt become white; to wit, after it hath loſt its Acrimony by waſhing; then diſ<g ref="char:EOLhyphen"/>ſolve it in Alchoolizated Spirit of Wine, and diſtil it ſeven times, always upon the <hi>Caput mortuum,</hi> then ſeparate the Spirit, and there will remain your Eſſence as in others.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>'TIS a moſt perfect Cordial; and not in the leaſt inferior to <hi>Aurum po<g ref="char:EOLhyphen"/>tabile;</hi> for 'tis given to reſtore weak and languiſhing Bodies; 'tis proper in malig<g ref="char:EOLhyphen"/>nant Fevers, and the Plague, by reaſon of its Cordiality: It repells, Syncopes or Swooning Fits, Paſſions of the Brain, as Apoplexies, Epilepſies, Palſies, and Ver<g ref="char:EOLhyphen"/>tigoes, as alſo Hyſterical paſſions and Hy<g ref="char:EOLhyphen"/>pochondriacal Fits; it's given in Broth, or the yelk of an Egg, in appropriate Waters, from half a Drachm to a Drachm.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="18" facs="tcp:60906:14"/>
+               <head>CHAP. VIII. <hi>His Eſſence of EMERALDS.</hi>
+               </head>
+               <p>TAke one part of the Fragments of E<g ref="char:EOLhyphen"/>meralds finely poudred; of <hi>Nitr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and <hi>Sulphur</hi> three parts; the which be<g ref="char:EOLhyphen"/>ing put into a glas'd Veſſel that will reſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Fire; you ſhall calcine it: Afterwards being dulcifyed with warm Waters, cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cine them twice, after the ſame manner as before, always with new Nitre and Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>phur. After the third calcination and du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cification put your Powder, into a crucible luted, into a Glaſs Furnace; or into a Re<g ref="char:EOLhyphen"/>verberatory Fire, for the ſpace of ſix days afterwards being put into a Glaſs Veſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pour on Spirit of Salt rectify'd; as much as will overtop it four ſingers breadth; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo digeſt them in an hot Bath for twenty days; then make a ſeparation by decantation into another Veſſel; and, pouring on new Spirit of Salt upon the foeces, digeſt them again as aboveſaid, until all the Pouder b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſſolv'd. Put all the Spirit into a Veſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:60906:14"/>very well ſtopt; and digeſt it for the ſpace of a month; which being paſt, diſtil it lightly, for the Tincture will remain in the bottom; then you may augment its Vir<g ref="char:EOLhyphen"/>tue by adding Spirit of Wine Alchooliza<g ref="char:EOLhyphen"/>ted; and digeſting it, and afterwards by ſeparating it.</p>
+               <p>After the ſame manner is made your Eſſence of <hi>Carbuncles, Hyacynthes,</hi> and o<g ref="char:EOLhyphen"/>ther pretious Stones.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>I Have no need to ſay any thing of the Virtues of this Eſſence, good Wine needing no Buſh; for it is really a moſt potent Cordial againſt Poiſon, and malig<g ref="char:EOLhyphen"/>nant, peſtilential Fevers; and ſuccors all Diſeaſes of the Brain, as Madneſs, Apo<g ref="char:EOLhyphen"/>plexies and the like.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="20" facs="tcp:60906:15"/>
+               <head>CHAP. IX. <hi>His Eſſence of Auripigmentum.</hi>
+               </head>
+               <p>'TIS a very dextrous and perfect ſpag<g ref="char:EOLhyphen"/>girical Art, to be able on the o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hand to extract deadly Poyſon from uſe precious things; and on the other has to be able to convert Poyſon it ſelf in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt perfect Antidotes, Alexipharmics a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> true Cordialls. As may be ſeen in <hi>Or<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ment;</hi> which though it be one of the dea<g ref="char:EOLhyphen"/>ly Poyſons; yet may be produc'd from an admirable Eſſence; by reaſon of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cordiality; and its proceſs is perform'd <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter this manner following.</p>
+               <p>Take one part of <hi>Auripigmentum,</hi> a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> three parts of rectify'd Nitre, which bei<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> put into an unglaſſed Earthen Veſſel th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will reſiſt the Fire; do as is uſual in <hi>Cro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Antimonii;</hi> being calcin'd, then wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off the Nitre with warm Waters; the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dry it, and do ſo again as aboveſaid wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> new Nitre; then repete this exſiccatio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after a new ablution; and adding two
+<pb n="21" facs="tcp:60906:15"/>parts of <hi>Nitre,</hi> and two of <hi>Sulphur</hi> Fire it a freſh; and du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y it; but take heed of flame and ſume: After the third calcina<g ref="char:EOLhyphen"/>tion and dulcification, put your Powder into a crucible well luted <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Fornace or Reverberatory Fire <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpace of one month. Afterward, proceed with Spirit of Salt, as hath been often ſaid in other foregoing proceſſes, digeſting and coho<g ref="char:EOLhyphen"/>bating it oftentimes; all being diſſolv'd, ſeparate the Spirit, to a dryneſs; then with Spirit of Wine; <hi>&amp;c.</hi> proceed as in other before.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis Eſſence expells all manner of Poy<g ref="char:EOLhyphen"/>ſon very forcibly; and is of like Vir<g ref="char:EOLhyphen"/>tue with <hi>Aurum potabile,</hi> Pearls, Corals, and pretious Stones; it purifies impure Bodies from all naughty corruption in the Veins: This is the chiefeſt among other remedies againſt malignant Ulcers, Gan<g ref="char:EOLhyphen"/>greens, or any other corroſions; and roots out Scurffs and Scald-heads being anointed therewith. 'Tis given in Broths or Wa<g ref="char:EOLhyphen"/>ters, from a Scruple to a Drachm.</p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="22" facs="tcp:60906:16"/>
+               <head>CHAP. X. <hi>His Eſſence of common Salt.</hi>
+               </head>
+               <p>FIltrate decrepitated Salt ſeveral times through a Paper in rain Water being ſeven times diſtill'd: Exhale the humidity and from what remains fixt, diligently ex<g ref="char:EOLhyphen"/>tract a Spirit with <hi>Bole-Armenia</hi> accord<g ref="char:EOLhyphen"/>ing to Art. Then cohobate it four times upon the <hi>Caput mortuum,</hi> and being recti<g ref="char:EOLhyphen"/>fy'd from its impurities keep it, for the uſe hereafter ſpecify'd; then break your Re<g ref="char:EOLhyphen"/>tort, and make a Salt of the <hi>Caput mor<g ref="char:EOLhyphen"/>tuum</hi> according to Art; filtrating it well and it will begin to look red; then joyn<g ref="char:EOLhyphen"/>ing it with the aforeſaid, digeſt it in <hi>Bal<g ref="char:EOLhyphen"/>neo,</hi> in a Veſſel well luted with <hi>Maſtich</hi> and the white of an Egg: Then after a month is paſt, rectify it again twice or thrice, and adding alchoolizated Spirit of Wine, and making a new digeſtion, ſepa<g ref="char:EOLhyphen"/>rate the Spirit of Wine, and there will re<g ref="char:EOLhyphen"/>main your <hi>Eſſence</hi> of Salt.</p>
+               <div type="uses">
+                  <pb n="23" facs="tcp:60906:16"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis Eſſence will preſerve as well dead Carkaſes as living wights from Cor<g ref="char:EOLhyphen"/>ruption, and is more effectual for Wounds, than your Balſams; it wonderfully helps Ulcers; it diſſolves the Gravel and Stone in the Blader; it mundifies the Veins from any bad, groſs quality; and cures Diſeaſes proceeding from Blood; it conglutinates, conſolidates and cures Ulcers of the Reins and Blader: It helps obſtructions of the Spleen, Liver and <hi>viſera;</hi> it very much pre<g ref="char:EOLhyphen"/>vails againſt putrid Fevers; it removes in<g ref="char:EOLhyphen"/>fections of the Skin; amongſt which are Scabs, Pimples, Shingles, St. Anthony's Fire, Ringworms, <hi>&amp;c.</hi> it ſuppurates all ſorts of hot Tumors; and diſſolves cold ones, although they be ſchyrrous: It appeaſes pains in the joints; it defends the radical moyſture, keeps back old Age; ſharpens the Wit, 'its drank in Liquors from one Drachm to two.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="24" facs="tcp:60906:17"/>
+               <head>CHAP. XI. <hi>His Eſſence of Sal-prunella.</hi>
+               </head>
+               <p>MIX <hi>Sal-prunella</hi> very well clarify'd with Common Salt decrepitated; 'its done by the ſame Rule as in Common Salt. This differs not in Virtue from the Common, chiefly in Fevers.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>His Eſſence of Sulphur.</hi>
+               </head>
+               <p>FIrſt of all rubifie Vitriol, then adding an equal portion of Sulphur; put it into a new pot as the cuſtom is, and let the Sulphur be ſublimated four times; then mix with it Common Salt decrepitated, diſ<g ref="char:EOLhyphen"/>ſolved and coagulated, and ſublimeit thrice with the ſaid flower, and then the flower will wax white, and become volatile; and this keep for uſes hereafter ſpecify'd; Af<g ref="char:EOLhyphen"/>terwards
+<pb n="25" facs="tcp:60906:17"/>take Spirit of Sulphur drawn <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Campanam,</hi> and rectify'd: And paſſ<g ref="char:EOLhyphen"/>ing it a freſh through filings of Steel; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake away its acrimony; ſo that it become as ſweet as Water; put your flowers, for<g ref="char:EOLhyphen"/>merly laid by into this dulcify'd Spirit; ſo that the Spirit may ſwim four ſingers bredth above them, and digeſt them in <hi>Balneo,</hi> in a well Glazed Veſſel well ſtopt; where your Spirit will aſſume a reddiſh Color; ſeparate the Spirit by decantation; ſtill adding freſh until it will tinge no more; then ſeparate the Spirit by diſtillation; and the Tincture will remain at the bottom; to which adding alchoolizated Spirit of Wine, digeſt them for ſeveral days, until they be very well mixt; afterwards ſepa<g ref="char:EOLhyphen"/>rate them by diſtillation, and in the bot<g ref="char:EOLhyphen"/>tom there will remain an Eſſence.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis is a moſt cordial Eſſence; and no<g ref="char:EOLhyphen"/>thing is more proper againſt contu<g ref="char:EOLhyphen"/>ſions in Wounds, even when the nerves are cut in two; it cures Punctures, or Poy<g ref="char:EOLhyphen"/>ſonons bitings, of any animal; it extin<g ref="char:EOLhyphen"/>guiſhes
+<pb n="26" facs="tcp:60906:18"/>the Poyſon, and heals the Wounds. 'Tis a true Balſam in Diſeaſes of the Lungs, even Ulcers thereof; it ſuccors Hectical, Pthyſical, Aſthmatical People. It conſerves the radical moyſture; it eradicates pains of the joints; it comforts the nerves; it conſumes new and old impurities in Ca<g ref="char:EOLhyphen"/>tarrhs; it reſtores hearing to the Deaf; 'tis profitable to ſordid Ulcers: 'tis to be drank from half a Drachm to a Drachm, in Broths or Waters; and is outwardly u<g ref="char:EOLhyphen"/>ſed by it ſelf alone, or with proper Un<g ref="char:EOLhyphen"/>guents.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>His Eſſence of Vitriol.</hi>
+               </head>
+               <p>PHiloſophers aſſert Vitriol to be the Blood of the macrocoſmical machine; and will needs have the Philoſophers Stone, after which ſo many inquirers have labor'd in vain, to be made of it. In this they affirm the true Force and Virtue of the Univerſal Secret which is the Soul of
+<pb n="27" facs="tcp:60906:18"/>minerals doth conſiſt. But, indeed, and in truth, if through genuine ſpagyric Ope<g ref="char:EOLhyphen"/>rations, there emerge ſo many wonderful Virtues, from all ſorts of minerals and ſe<g ref="char:EOLhyphen"/>minerals; then certainly not a few mar<g ref="char:EOLhyphen"/>velous ones are to be extracted from Vi<g ref="char:EOLhyphen"/>triol; as may appear, from its ſtopping Fluxes of Blood, it being only calcin'd in the Sun; and the many alſo that uſe it by applying it a diſtance, to preſerve the parts from corruption. Hence it may ap<g ref="char:EOLhyphen"/>pear, that it muſt certainly be of much more efficacy being mundifyed from its Impurities, and brought to its perfection by an ingenious Artiſt. Now its proceſs is as followeth.</p>
+               <p>Take calcin'd Vitriol, and, a Spirit being extracted therefrom according to Art, re<g ref="char:EOLhyphen"/>ctifie it; and diſſolve the foeces that re<g ref="char:EOLhyphen"/>main in hot Water; then filtre and dry them, repeating the ſaid Operations ſeveral times, that you may gather from thence a Spirit and Salt, as beforeſaid. After<g ref="char:EOLhyphen"/>wards join the Spirit, being thrice recti<g ref="char:EOLhyphen"/>fy'd, to the Salt; and diſtil them, coho<g ref="char:EOLhyphen"/>bating them ſeven times; but alway diſ<g ref="char:EOLhyphen"/>ſolve the <hi>Caput mortuum,</hi> and fix it as be<g ref="char:EOLhyphen"/>fore.
+<pb n="28" facs="tcp:60906:19"/>Put your Salt into a Veſſel, that will endure the Fire, into a Reverbatory Fire for ſeven days, until it begin to look red; then add it again to its Spirit well rectify'd, and, in a Veſſel very cloſe ſtopt, digeſt it in an hot <hi>Balneo Mart<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</hi> After for<g ref="char:EOLhyphen"/>ty days diſtil it, and rectifie the Spirit ſeven times and diſſolve the Salt in <hi>aqua vitae,</hi> rectify'd and alchoolizated, and ſix it; then join the Spirit again, and digeſt it until it grow red; afterwards ſeparate the Spirit by diſtillation; in the bottom there will remain a Tincture which you ſhall add to freſh Spirit of Wine alchooli<g ref="char:EOLhyphen"/>zated; digeſt it, and, extracting a Spirit therefrom, there will remain your Eſ<g ref="char:EOLhyphen"/>ſence.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>NO one yet ever communicated a more famous medicine againſt all Diſeaſes; for it expells all kind of Poyſon whether vegetable, animal or mineral; it recreats the vital, natural and animal Spirits. This is the <hi>Arcanum</hi> ſo long conceal'd by many which is ſo wonderful and ſo univerſal; and
+<pb n="29" facs="tcp:60906:19"/>which agrees ſo well with all Diſeaſes, all Ages and both Sexes; it exceeds your <hi>Au<g ref="char:EOLhyphen"/>rum potabile, Panacea's,</hi> or any other medi<g ref="char:EOLhyphen"/>cine under any denomination whatever: 'Tis given from a Scruple to a Drachm, in Broths, yelks of Eggs or other Liquors.</p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. <hi>His Antiepileptic Troches.</hi>
+               </head>
+               <p>THere are many that affirm theſe to be your mineral <hi>cinabar;</hi> whoſe mother they ſuppoſe to be the bowells of the Earth. But they are much miſtaken; for that which is call'd your mineral <hi>cinabar,</hi> is cover'd under the ſhaddow of this of ours, leſt it ſhould be called <hi>Antimony.</hi> The <hi>cinabar</hi> laid down by many Authors againſt the Epilepſy, called mineral and arti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cial, is made after this manner following.</p>
+               <p>Take the <hi>Caput mortuum,</hi> which remains after making of your compound Butter of Antimony, and add thereto as much Mercu<g ref="char:EOLhyphen"/>ry ſublimate; then diſtil it for uſe in a Glaſs
+<pb n="30" facs="tcp:60906:20"/>well luted in an Alymbec. Towards the end make a fierce Fire, ſo that the Anti<g ref="char:EOLhyphen"/>mony may aſcend to the neck of the Glaſs, juſt like your cleareſt cinabar, which will be mineral. Waſh th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> until it be dul<g ref="char:EOLhyphen"/>cify'd, and then put it into a Crucible, into an open, circulatory Fire for three hours to<g ref="char:EOLhyphen"/>gether, and kindle your Spirit of Wine three or four times.</p>
+               <p>
+                  <hi>Of this take one Ounce, Magiſtry of Pearls and Coralls, of each one Drachm and an half. Ambar and Safron, of each one Scruple, Elke's hoof one Drachm; humane Scull pre<g ref="char:EOLhyphen"/>par'd without Fire three Drachms; faeculi Peoniae half an Ounce, Oil of Ambar diſtill'd, of the</hi> mucilage of <hi>Hart's-horn,</hi> and Scull, as much as will be ſufficient to form them into Troches; whereof give from a Scruple to half a Drachm, to Epileptics; and you will ſee Wonders; for this <hi>Arcanum</hi> hath been confirm'd by many experiences.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="31" facs="tcp:60906:20"/>
+               <head>CHAP. XV. <hi>His magiſtral Caput mortuum</hi>
+               </head>
+               <p>TAke the <hi>Caput mortuum</hi> of <hi>Aqua fortis,</hi> made of <hi>Nitre</hi> rectify'd, and <hi>Vitriol</hi> well calcin'd; and make <hi>a lixivium</hi> there<g ref="char:EOLhyphen"/>of with warm, diſtill'd Rain-water, and extract a Salt according to Art. Then the ſame Salt being diſſolved again twice in the ſaid diſtil'd Rain-water, until there appear chryſtalls; take one part of recti<g ref="char:EOLhyphen"/>fy'd <hi>Nitre,</hi> and two of the ſaid Salt; and melting the Nitre in a crucible with a Fire of the ſecond degree, add the Salt by de<g ref="char:EOLhyphen"/>grees; and melt them all with the Fire for the ſpace of three hours. Put this Maſs into <hi>Aqua fortis,</hi> extracted from the aforeſaid things; and to every pound add flowers of Antimony from the <hi>Regulus</hi> of <hi>Mars,</hi> three Ounces; leaf Gold three Drachms; Coral, Pearls, Egg-ſhells, of each two Drachms; digeſt all in a warm place for four days together; this done diſtil to a dryneſs; powder <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which
+<pb n="32" facs="tcp:60906:21"/>remains, and imbibe it again in <hi>Aqua vitae</hi> digeſt for eight days, and diſtil to a dry<g ref="char:EOLhyphen"/>neſs; The <hi>Caput mortuum</hi> which remain keep in Glaſſes well ſtopt: And if you ſhall give from twelve to eighteen drop thereof, you will conſume Hypochondria<g ref="char:EOLhyphen"/>cal Diſeaſes; for it is one of the moſt pow<g ref="char:EOLhyphen"/>erful remedies againſt ſuch Diſeaſes. I expells all kinds of obſtructions, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> naughty Fevers; 'tis good for Cachecti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bodies and frees ſolks from Dropſies.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI. <hi>His Golden Cathar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ic.</hi>
+               </head>
+               <p>TAke of our <hi>Aureat,</hi> hereafter deſcrib'd half an Ounce; Spirit of <hi>Sulphur</hi> rectify'd after the beſt manner; thre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ounces; digeſt them in a warm place At fifteen days end diſtil them with <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Glaſs retort with a Fire of Sand; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then cohobate the ſaid Spirit with the ſai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Aureat</hi> nine times; and waſh the powde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very well with Cordial Waters, and dry
+<pb n="33" facs="tcp:60906:21"/>it. The doſe is from four to ten Grains, with Magiſtery of <hi>Mechoacan, Jalap, Seamony,</hi> or Extracts; which ſhall be moſt convenient.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>CHAP. XVII. <hi>His Antivenereal Pills.</hi>
+               </head>
+               <p>TAke of our <hi>Calomelanos,</hi> Magiſtery of <hi>Lapis lazuli,</hi> extract of <hi>Rhubarb, Se<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a, Turbith,</hi> Buckthorn-berrys, of each two Drachms; <hi>Gum Guajaci</hi> or <hi>Ligni ſancti</hi> the weight of them all; magiſtery of <hi>Tar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar</hi> diſſolv'd in Oil of Cinamon of each one Drachm and an half; Syrup of Fu<g ref="char:EOLhyphen"/>mitery as much as will ſuffice to form them into Pills.</p>
+               <div type="uses">
+                  <head>Vertues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THeſe Pills very happily pull up all Ve<g ref="char:EOLhyphen"/>nercal humors by the root; yea even <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the Bones be infected; Their doſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s from half a Drachm to one Drachm; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or twenty, thirty or forty days together.</p>
+               </div>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="34" facs="tcp:60906:22"/>
+               <head>CHAP. XVIII. <hi>His Calomelanos.</hi>
+               </head>
+               <p>TAke good Mercury, and put it into a Re<g ref="char:EOLhyphen"/>tort, with a double quantity of San<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both very well mixt; and put to the Fir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by degrees; and pour it into a Veſſel; no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhuting its mouth, that the impure part<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may remain in the Sand. Then ſublimat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it with common Salt decrepitated, accord<g ref="char:EOLhyphen"/>ing to Art; and throwing away the foeces, add the Salt again to that Mercury being more purely ſublimated. Then caſting away the parts that remain ſublime i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more purely with new Salt; do this ſeven times, and the <hi>foeces</hi> being at laſt ſepara<g ref="char:EOLhyphen"/>ted, place the Retort in a Reverberatory Furnace, with the ſublimate of the ſe<g ref="char:EOLhyphen"/>venth proceſs, and leave it there for two hours with a moſt vehement Fire. Then waſh it with Cordial waters many times, and imbibe in Juniper <hi>Aquae vitae,</hi> which muſt ſwim a top a fingers breadth, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urn it, which you muſt do thrice.</p>
+            </div>
+            <div n="19" type="chapter">
+               <pb n="35" facs="tcp:60906:22"/>
+               <head>CHAP. XIX. <hi>His Cathartic of Antimony with Vitriol, called His Catholicon.</hi>
+               </head>
+               <p>TAke ſhining Antimony out of the Earth; that which is of a Golden Color, one part, rubify'd Vitriol two parts, being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urify'd and mixt, put them into a Cru<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ible that they all melt together: then <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owder the Maſs, and put it into a Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort very well luted with diſtill'd Vinegar, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat it may be uppermoſt four fingers <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>readth; and augment the Fire by litle <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd litle, and at laſt make a moſt ardent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, that all the Spirit may be exhal'd; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd it will evaporate with a moderate <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat, until there remain a ſat Tincture. Then take of the Extract of <hi>Rhubarb, Se<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a, Jalap, Turbith, black Hellebore,</hi> of each one Drachm; Extract of Aloes one Ounce, Eſſence of Juniper and Citron Pills of each, two Drachms; and adding thereto half an Ounce of the aboveſaid Tincture, di<g ref="char:EOLhyphen"/>geſt them all with a moderate heat; and ſo reduce to the conſiſtence of an Extract;
+<pb n="36" facs="tcp:60906:23"/>and you will have a very excellent Catha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c, marvelous againſt all kinds of Fevers as well acute as intermittent; excelling a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anchy magogues of other Phyſitian<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the doſe from eight to fifteen Grains.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX. <hi>His Troches againſt Gangrenes.</hi>
+               </head>
+               <p>TAke the foeces of Common Regulu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and put it into a moiſt place upon a Marble, under a Veſſel, and keep it from the rain, that the Air only penetrate it and that it may be diſſolv'd into an Oil which you ſhall exhale with a gentle Fire and you will have a moſt pungent Salt whereof take one Ounce, Mercury ſubli<g ref="char:EOLhyphen"/>mate one Ounce, Barly and Lentil meal o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> each two Ounces; Gum tragaganth, two Drachms; diſſolve them in Roſe-water, and make Troches of them, which will cure all Gangreens, and wonderfully corrode pec<g ref="char:EOLhyphen"/>cant fleſh.</p>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="37" facs="tcp:60906:23"/>
+               <head>CHAP. XXI. <hi>His Antihectic Powder.</hi>
+               </head>
+               <p>TAke of the ſtarryed Regulus of <hi>Mars,</hi> and Engliſh Tin, of each one part; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulverize them and mix them with three parts of rectify'd <hi>Nitre,</hi> and calcine them according to Art; then take away all the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>altneſs with hot water, as is uſual, and put the white powder again into a Rever<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eratory Furnace for three days, or in a Glaſs, or Potters-Furnace; and imbibe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t again in <hi>Aqua vitae</hi> rectify'd, which you ſhall kindle to burn; and this you ſhall do thrice. Take one Ounce of this Powder, of Vipers prepar'd half an Ounce; Sage dry'd and powdred one Ounce and a half, then throw live Frogs into a pot; ſhut it cloſe till they be dead; and then put them into an Oven till they be ſo dry as they may be powdred; and mix three Ounces of theſe with the ingredients aboveſaid; and of this compound give from one Drachm to two; for forty days together.</p>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="38" facs="tcp:60906:24"/>
+               <head>CHAP. XXII. <hi>His Aqua vitae, againſt pains of the Joint</hi>
+               </head>
+               <p>TAke four handfuls of ground Ivy of Cypreſs leaves, <hi>Sage, R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lema<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Spike, Netles,</hi> of each one handful; o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Elme Bark, and leaves, of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Oun<g ref="char:EOLhyphen"/>ces: Dwarf Elder two handfuls; all theſe being beaten, in a Morter, infute them in two pownds of Generous Wine; and the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and extract the forth part. T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> call'd <hi>Aqua vitae,</hi> add half o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the aforeſaid green Herbs, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Earth-worms, which have <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> waſh'd well with Wine, before; and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pounds of Dogs greaſe, and then di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l them again, extracting the half. Then <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the third part again of the aforeſaid Herbs, Worms and ſat, and diſtilling them again extract the third part; and ſo you will have a perfect <hi>Aqua vitae,</hi> which will be excellent good to comfort and reſolve all Diſeaſes of the Joints and Feet-Gout.</p>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="39" facs="tcp:60906:24"/>
+               <head>CHAP. XXIII. <hi>His Anodine, or Narcotic of Vitri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi>
+               </head>
+               <p>TAke of <hi>Romane Vitri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> and <hi>Tartar</hi> of each one pound; filings of Steel half a pound; the Tartar and Vitriol be<g ref="char:EOLhyphen"/>ing pulveriz'd put them into a Glaſs Cu<g ref="char:EOLhyphen"/>curbit; being firſt well mixt; then imbi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them in diſtill'd Vinegar, ſwimming two ſingers bredth above; and digeſt for three days. Which being paſt, congele them with a moderate Fire; and imbibe them in Vinegar as aforeſaid; and follow the a<g ref="char:EOLhyphen"/>foreſaid order; After you have congel'd them add diſtill'd Vinegar, which muſt overtop it ſix ſingers breadth; and with a mild Fire it will very ſuddenly take a red color. Then put freſh Vinegar there<g ref="char:EOLhyphen"/>to, until the Tin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ure be extracled; and to the ſaid Vinegar add Oil of <hi>Tartar per deliquium:</hi> For ſo all the Sulphur will deſ<g ref="char:EOLhyphen"/>cend to the bottom of the Glaſs: then you ſhall dry it well; and immerge it in three pounds of rectify'd <hi>Aqua vitae;</hi> then
+<pb n="40" facs="tcp:60906:25"/>place the Veſſel, well ſtop'd with Maſtick and the white of an Egg, in hot Horſe<g ref="char:EOLhyphen"/>dung; which you muſt change every four days; At the fortieth days end diſtil; and reſerve the Tincture remaining in the bot<g ref="char:EOLhyphen"/>tom of the Glaſs, according to the cuſtom of Tinctures: And here you have a true Narcotic.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis Narcotic was invented chiefly to chaſe away away all acute, burning and malignant Fevers, and eſpecially <hi>in de<g ref="char:EOLhyphen"/>liriums;</hi> as alſo againſt Hyſterical paſſions. Colic, and Nephritic pains; and againſt all Diſeaſes wherein <hi>Laudanum,</hi> or <hi>Nephenthe</hi> is to be given, this Narcotic is ſafer; the doſe is from five Grains to twelve.</p>
+               </div>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="41" facs="tcp:60906:25"/>
+               <head>CHAP. XXIV. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</head>
+               <p>TAke one Ounce of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gold, Crude Antimony four Ounces: mix them and melt them together in a crucible: but with an equal, not a vehement Fire; leſt the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſeparated by too much Fire. Atter you have melted them let them cool; and then powder them finely; after that calcine them by degrees with a gentle Fire after the ſame manner as done in calcining of Glaſs; always ſtiring them with an Iron rod. You ſhall know them to be calcin'd enough when the Antimony and Gold ſhall become very white; and will not cleave together: nor being put upon burning coals will ſmoak at all. Glaſs is made from hence by putting the <hi>Cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in a crucible in a vehement Fire of Fuſion for an hour; and then <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts perfect when the Vitrification appears very clear and of the color of a Carbuncle Stone.</p>
+               <p>This truly is ſomewhat a difficult Ope<g ref="char:EOLhyphen"/>ration;
+<pb n="42" facs="tcp:60906:26"/>and ſometimes fails the Artiſt but you ſhall have a more clear manner and method for the compounding this <hi>Ar<g ref="char:EOLhyphen"/>canum,</hi> in another Work, which I ſhall ex<g ref="char:EOLhyphen"/>poſe to light; where I ſhall explicate the very proper and genuine one to the young Student. This as it is a richer preparation with Gold than that which <hi>Crollius, Se<g ref="char:EOLhyphen"/>nertus, Schroderus</hi> and others have left us, ſo 'tis a more Cordial one: Laſtly this out <hi>Aureatum</hi> is of a vomitive and ſolutive nature; but challengs to it ſelf, the firſt place among the Vomitives; becauſe the Gold defends the Heart and <hi>Viſcera.</hi> It doth not only equal the Virtues of the Antimonial Cup but excells them: Its doſe is from two Grains to five.</p>
+            </div>
+            <div n="25" type="chapter">
+               <head>CHAP. XXV. <hi>His Catholic Water.</hi>
+               </head>
+               <p>TAke of the juice of Bryonie, Buck<g ref="char:EOLhyphen"/>thorn berryes, Celandine, Eglantine berryes, of the bark of Elder, dwarf Elder,
+<pb n="43" facs="tcp:60906:26"/>Germander; of each two Ounces; Spirit of Wine rectify'd two pounds; digeſt them for two days ſpace, then diſtil them and to the diſtill'd water add your Extract of Rhubarb, Agaric, Sena, Hedge Hyſſop, of each half an Ounce; Magiſtery of Me<g ref="char:EOLhyphen"/>choacan three Drachms; ſolutive Magiſte<g ref="char:EOLhyphen"/>ry of Tartar two Drachms; Cinamon, Maſtick, Ginger and Aniſeed of each half a Drac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. Spirit of Vitriol ſtibiated ſix Drachms; and digeſt them in Horſe-dung: At twenty four days end ſtrain them and keep them in a Veſſel very cloſe ſtop'd: This is call'd Catholic, becauſe it works truely without any nauſconſneſs, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all Diſeaſes wherein purging is requiſite, it is very pro<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>able; and 'tis to be taken ei<g ref="char:EOLhyphen"/>ther in Bro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, Wine or Water; the doſe is from one Drachm to three or four at moſt.</p>
+            </div>
+            <div n="26" type="chapter">
+               <pb n="44" facs="tcp:60906:27"/>
+               <head>CHAP. XXVI. <hi>His Firſt Alexipharmac Troches.</hi>
+               </head>
+               <p>TAke of Oriental Bezoar Stone, Harts<g ref="char:EOLhyphen"/>horn prepar'd, Jovial and mineral Bezoar: Of the true Unicorn and Rhi<g ref="char:EOLhyphen"/>noceros's horn of each two Drachms, Earth of <hi>Malta,</hi> yellowiſh Bole-armenia, <hi>Bohemian</hi> Earth; <hi>Terra ſigillata,</hi> of each half an Ounce; Contrayervae five Drachms; <hi>Spodium,</hi> all the Fragments of pretious Stones, prepar'd half a Drachm. Magi<g ref="char:EOLhyphen"/>ſtery of Pearls; of all Corals; of Boars teeth, of each one Drachm; twenty leaves of Gold; let all be poudred and with the Mucilage of Harts-horn make Troches.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Deſes.</head>
+                  <p>THey free the Diſeaſed from all manner of Poyſon, malignant and erratic Fe<g ref="char:EOLhyphen"/>vers; and are marvellous good againſt menſtrual Fluxes, ſpitting and vomiting of Blood; Pleuriſie and pain at Heart. And
+<pb n="45" facs="tcp:60906:27"/>are in a more eſpecial manner profitable to Women with child that fear Abortion; their doſe is from half a Scruple to a Scru<g ref="char:EOLhyphen"/>ple in Specifies.</p>
+               </div>
+            </div>
+            <div n="27" type="chapter">
+               <head>CHAP. XXVII. <hi>The Second Viper Alexipharmic Troches.</hi>
+               </head>
+               <p>TAke yellow Monks-hood, Swallow<g ref="char:EOLhyphen"/>wort, Scorzonora, Contrayervae, Ci<g ref="char:EOLhyphen"/>trion Pills, of each one Drachm. Viper pouder half a Drachm; right Unicorn's-horn, true Bezoar Stone, and Rhinoce<g ref="char:EOLhyphen"/>ros's-horn, bone of Harts-heart, of each half a Drachm. Jovial Bezoard, red Chryſtal prepar'd, of each one Drachm; let them be poudred, and with mucilage of Harts<g ref="char:EOLhyphen"/>horn make them into Troches; which will vanquiſh Poyſons and malignant Fe<g ref="char:EOLhyphen"/>vers, Puſtles, Smal-pox and Meazles, and the like; the doſe is from one Scruple to half a Drachm.</p>
+            </div>
+            <div n="28" type="chapter">
+               <pb n="46" facs="tcp:60906:28"/>
+               <head>CHAP. XXVIII. <hi>His Third <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Alexipharmic Troches.</hi>
+               </head>
+               <p>TAke of Tormentil Root, Angelica, Car<g ref="char:EOLhyphen"/>line, or White thiſtle, Gentian, Con<g ref="char:EOLhyphen"/>trayerva, yellow Monks-hood, Swallow<g ref="char:EOLhyphen"/>wort, Scorzonora, Maſter-wort, of each one Drachm; Juniper and Bay-berries of each one Ounce; Ivy, hath an Ounce; Cina<g ref="char:EOLhyphen"/>mon, yellow Sanders, Wood of Moes, of each two Scruples. Bone of an Harts-heart half an Ounce; you ſhall ponder all theſe, and put them into a G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en Veſſel and be<g ref="char:EOLhyphen"/>ſprinkle them with Eſſence of Tartar three Drachms; adding red Chryſtal prepar'd, Oriental Bezoar-Stone, Mag<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ery of Pearls, true Unicorns-horn, of each o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scruple; Magiſtery of Ambar, Salt of Jupiter, leaf Gold of each twenty five Grains. Of the Mucilage of Harts horn and gum Tra<g ref="char:EOLhyphen"/>gacanth made with Pome-citron-water, as much as will ſuffice to make all into Tro<g ref="char:EOLhyphen"/>ches according to Art.</p>
+               <div type="uses">
+                  <pb n="47" facs="tcp:60906:28"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THeſe Troches expel the Plague and Pe<g ref="char:EOLhyphen"/>ſtilential Diſeaſes, and malignant Fe<g ref="char:EOLhyphen"/>vers; and are profitable and powerful in all <hi>Syncoeps</hi> or ſwooning of the Heart; and Arſenical Medicines; and ſuch like Poyſons; the doſe of them is from a Scruple to half a Drachm.</p>
+               </div>
+            </div>
+            <div n="29" type="chapter">
+               <head>CHAP. XXIX. <hi>His Cordial, or Balſam of Life.</hi>
+               </head>
+               <p>TAke of our Univerſal <hi>Panacea</hi> with Gold, of the Eſſence of Gold and Sil<g ref="char:EOLhyphen"/>ver, of each two Drachms; of the Eſ<g ref="char:EOLhyphen"/>ſence of Ambar-Griſe, twenty five Grains, of the Eſſence of Pearls three Drachms; of the Tincture of Vipers half an Ounce; of the Eſſence of Harts-blood one Ounce; mix them and add to them true Oriental
+<pb n="48" facs="tcp:60906:29"/>
+                  <hi>Opobalſmum</hi> four Grains; and you have a very great Cordial to comfort Nature with all; the doſe of this Balſam is from half a Scruple to a Scruple.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>CHAP. XXX. <hi>His Balſamum Salutis.</hi>
+               </head>
+               <p>TAke of the Eſſence of Ambar-Griſe made with Spirit of Roſes, of the Quinteſſence of Roſes; of the Eſſence of Juniper-berryes, and Citron peels of each one Scruple; Oil of the flowers of Pome-citrions, half a Scruple; mix them and give it with ſimple Sugar of Roſes, from two drops to ſix.</p>
+            </div>
+            <div n="31" type="chapter">
+               <pb n="49" facs="tcp:60906:29"/>
+               <head>CHAP. XXXI. <hi>His Bezordicum minerale.</hi>
+               </head>
+               <p>OUR <hi>Bezoardicum minerale</hi> differs but litle from that Common one, which the Chymiſts compound; but 'tis more correct and ſafer; becauſe the correction of Antimony and Mercury is while they be purged from all their evil and malig<g ref="char:EOLhyphen"/>nant qualities by the Fire. Its proceſs is as followeth.</p>
+               <p>Take Regulus of Antimony; but let it be of that which hath afterwards been purify'd in a moſt ardent Fire; for ſixteen hours together; and alſo Mercury ſubli<g ref="char:EOLhyphen"/>mate that hath been made of it, as be<g ref="char:EOLhyphen"/>fore in our <hi>Calomelanos;</hi> and diſtil them by an Alembic; as the cuſtom is, extract<g ref="char:EOLhyphen"/>ing a Butter, as in <hi>Bezoardicum minerale,</hi> laid down by other Authors: Then dul<g ref="char:EOLhyphen"/>cify it by waſhing often with warm Waters, and dry it in a temperate heat; being dri<g ref="char:EOLhyphen"/>ed imbibe in Spirit of Nitre, which muſt overtop it four ſingers bredth, and then di<g ref="char:EOLhyphen"/>ſtil;
+<pb n="50" facs="tcp:60906:30"/>and after cohobate thrice, and dul<g ref="char:EOLhyphen"/>cify again as before. Put your dulcifica<g ref="char:EOLhyphen"/>tion into an Earth Glaſs'd Veſſel, that wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> endure the Fire; and kindle your Fire for about three days together; for this is its true manner and method of its decoction. Then imbibe the Spirit of Wine; which you ſhall kindle about five or ſix times, and then you are certain to have the per<g ref="char:EOLhyphen"/>fect and beſt <hi>Bezoardicum minerale.</hi>
+               </p>
+               <p>This is that of my Maſter's; and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you take notice of the compoſitions o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others; you ſhall not need to be altoge<g ref="char:EOLhyphen"/>ther ſo diligent and exact. He uſed it in ſit ſorts of Broths, giving a Scruple <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one doſe; as may appear from his, and my, Obſervations; and becauſe it is well corrected and concocted, ſo that it will never harm any one, he gave it to all that were troubled, not only with a malignant, acute and peſtilential Fever; but alſo in Cachectic diſtempers; and in the Small<g ref="char:EOLhyphen"/>pox and Meazles, and other ſuch like Di<g ref="char:EOLhyphen"/>ſeaſes; the doſe is as before, from half a Scruple to one Scruple.</p>
+            </div>
+            <div n="32" type="chapter">
+               <pb n="51" facs="tcp:60906:30"/>
+               <head>CHAP. XXXII. <hi>His Bezoardicum Joviale.</hi>
+               </head>
+               <p>THis is compos'd after the ſame manner as the former, nothing excepted, but only differs in the Compoſition; for firſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou muſt make a ſtarryed <hi>Begulus Martis,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd join to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t by Fire a like quantity of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he more perfect Tin; and the aforeſaid Mercury ſublimate, as in the proceſs of our <hi>Calomelanos;</hi> But be ſure you omit nothing of the right ordering and making the aforeſaid mineral. For that is it which is ſo much celebrated by my Maſter's uſing <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in his practice; whereof he gave, and to do I, in all deſperate Diſeaſes, from half a Scruple to half a Drachm.</p>
+               <p>There are other Solar Bezoardies made by adding Gold; and alſo Lunar ones by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dding Silver; as they are deſcrib'd by other Authors: But I think it enough not to depart from the Fire, and manner of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking which I have laid down in the<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nineral Bezoar. For if you ſhall do o<g ref="char:EOLhyphen"/>therwiſe
+<pb n="52" facs="tcp:60906:31"/>they ſhall not obtain their whole Virtue. The Correction of the correct flowers, <hi>crocus</hi> and <hi>auratum,</hi> is done after this manner.</p>
+               <p>Take, the Flower, Saffron, or Glaſs, and put it into a Retort with rectify'd Spi<g ref="char:EOLhyphen"/>rit of Vitriol, to digeſt, for the ſpace of five days, in a moderate hot place; the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſtil to a dryneſs; and chohobate ſix times more; always diſtilling to a dryneſs; then dulcify with Cordial Waters; and being dry imbibe it in generous <hi>Aqua vitae;</hi> which you ſhall kindle thereon five times; for after this manner your Antimony is much corrected; and being ſo corrected they are to be compounded after this manner.</p>
+            </div>
+            <div type="appendix">
+               <pb n="53" facs="tcp:60906:31"/>
+               <head>An Appendix.</head>
+               <p>HAving not a mind to paſs by the wonderful prodigie of Bezoardies; I have given thee this Additional one; whereby Reader, thou wilt not diſdain to caſt thine eye upon a very fair Event which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hapned at <hi>Venice.</hi>
+               </p>
+               <p>The moſt Illuſtrious and moſt excellent <hi>Andreas Donatus</hi> the moſt worthy Senator of this Republick, and to whom I am very much obliged, commanded me to viſit, one <hi>John Baptiſt Tola,</hi> who was Sick; I went, and found him to be about ſixty five years Old, of a dull, melancholick temperature; formerly given to drink much generous Wine; and then at that time labouring under a continual, malig<g ref="char:EOLhyphen"/>nant Fever, for one day paſt; and troub<g ref="char:EOLhyphen"/>led in his head with ſumes, and an obſcure delirium; his pulſe was tremulent and ſmall; his Urine thick and troubled; his eyes darkiſh, almoſt glaſſy; his faculties
+<pb n="54" facs="tcp:60906:32"/>very abject: at length, that I may con<g ref="char:EOLhyphen"/>tract much into a litle, from all ſigns that appear'd mortal; I gave out that I deſ<g ref="char:EOLhyphen"/>pair'd of his life; which alſo did a moſt excellent Phyſitian; who had adminiſtred opportunely many remedy's, according to rules of Art: We both concluded that there was no other way left but to ſuccor him with Cordials; and told his Servants there was but a very ſhort period to death. Yet I ask'd this moſt excellent Phyſitian, whether he thought beſt, at la<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to try your Solar and Jovial Bezoardies; for many times good events follow from thoſe in theſe caſes; becauſe theſe Bezoardies com<g ref="char:EOLhyphen"/>pel nature to expel thoſe things, by Sweat, Urine or Seige, which impel the miſerable patient almoſt to death. He con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm'd this my opinion; and commanded pre<g ref="char:EOLhyphen"/>ſently to be given, ſix Grains of the So<g ref="char:EOLhyphen"/>lar, and ſix of Jovial Bezoar, in Cordial waters; but he ſent to the Governor, a very good Spagyric and a perfect operator, that he would allow of the aforeſaid ad<g ref="char:EOLhyphen"/>vice; The patient took it; and voyded much black choler by ſeige; but his faculties being exhauſted from a Convulſion, which
+<pb n="55" facs="tcp:60906:32"/>follow'd, they were almoſt deſtitute of ſtrength, and began to expreſs ſigns of greater debility; whereupon his domeſtics being affrighted; his Son being a Presbyter comes to me, not only inflam'd with anger: But from the Phyſitians words ſignifying to him that his death proceeded from that powder of the Bezoardies; who though he know it could not in the leaſt be from that; yet he endevours to lay the blame upon me, becauſe of that ſuddain, dange<g ref="char:EOLhyphen"/>rous motion: His Son, I ſay, upbraiding me with the heinouſneſs of the fact; threatned to accuſe me concerning the death of his Father; But at length ſuch an Evacuation, by the Almighties per<g ref="char:EOLhyphen"/>miſſion, carried off the black bile, which nature of it ſelf was not able to do; and ſo, as it were being dead, recal'd him to life. Since which time, always when I am in any Conſultation, I never propound any thing contrary to the opinion of o<g ref="char:EOLhyphen"/>thers; being aſſur'd that the leaſt evil that ſhall happen will be attributed to me.</p>
+            </div>
+            <div n="33" type="chapter">
+               <pb n="56" facs="tcp:60906:33"/>
+               <head>CHAP. XXXIII. <hi>His Antipleuretic Extract.</hi>
+               </head>
+               <p>TAke of the Extract of wild Poppy flowers, two Drachms, red Mallows, of Gum extracted from Wood of Oak; of each one Drachm and an half; of the <hi>pleura</hi> of a Man, or Boar, two Drachms; of the filings of a Boars Teeth, three Drachms; of the true Unicorn, Magiſte<g ref="char:EOLhyphen"/>ry of Coral, of the inward Peels of Fil<g ref="char:EOLhyphen"/>berds, Box flowers, <hi>Salis prunella,</hi> of each one Drachm; make a Maſs with the a<g ref="char:EOLhyphen"/>foreſaid extracts, and you will have a prodigious compoſition againſt a Pleureſy; whoſe doſe is from a Scruple to half a Drachm.</p>
+            </div>
+            <div n="34" type="chapter">
+               <pb n="57" facs="tcp:60906:33"/>
+               <head>CHAP. XXXIV. <hi>His Hyſterical Extract.</hi>
+               </head>
+               <p>TAke of the Extract of Mugwort, and Mother-wort of each three Drachms; Extract of Savin, and Juniper Berryes of each one Drachm; <hi>foeculae Aronis,</hi> half an Ounce, <hi>Foecula</hi> of Bryony two Drachms, Extract of Gith, and Aſſarabacca of each one Drachm, and an half; Magiſtery of Ambar four Drachms. Salt of Jupiter four Scruples; Seeds of Hart-wort, Nepen<g ref="char:EOLhyphen"/>te, of each two Scruples; Seeds of Biſhops<g ref="char:EOLhyphen"/>weed, Rue, Caraways, Aniſe, Cardamomes of each two Drachms; Caſtor, four Scru<g ref="char:EOLhyphen"/>ples; mix them all according to Art; and give thereof from half a Drachm to two Drachms; for it is greatly profitable in Hyſteric paſſions.</p>
+            </div>
+            <div n="35" type="chapter">
+               <pb n="58" facs="tcp:60906:34"/>
+               <head>CHAP. XXXV. <hi>His Nephritical Extract.</hi>
+               </head>
+               <p>TAke dry'd Rupturewort, three hand<g ref="char:EOLhyphen"/>fulls, Eryngo, Reſt-harrow, Burdock, of each one handful; Juniper and Bay<g ref="char:EOLhyphen"/>berryes, of each two Drachms; Seeds of Gromwel, Netles, Onions, Saxifrage, Aniſe, Fenil, of each two Ounces; of all theſe make an Extract according to Art; to which add Magiſtery of <hi>Lapis Judaicus,</hi> mountain Chriſtal, Crabs-eyes, Eggs-ſhells, Salt of Bean-ſhells, Salt of Flower of Ar<g ref="char:EOLhyphen"/>moniac; of each one Drachm; ferment all theſe together, and you have a great Re<g ref="char:EOLhyphen"/>medy againſt pains of the Reins; its doſe is from a Scruple to half a Drachm.</p>
+            </div>
+            <div n="36" type="chapter">
+               <pb n="59" facs="tcp:60906:34"/>
+               <head>CHAP. XXXVI. <hi>His Golden Extract.</hi>
+               </head>
+               <p>TAke of Bay-beryes, Perſian Almonds, of each four Ounces; Flowers of Nuts, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Elder, of wild Grapes; of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Origanum, Penny-royal, of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one handful; Carot-ſeed, Ani-ſeed, F<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il-ſeed, Cummin-ſeed, of each two Ounces; Cinamon, Cloves, of each half an Ounce; wood of Aloes, one Drachm; make an Extract according to Art; to which add true Balſamof <hi>Peru,</hi> Oil of Nutin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs; of the Skie-color'd Oil of Tur<g ref="char:EOLhyphen"/>pentine; of each half an Ounce; mix and ferment them together; and the doſe is from half a Drachm to one Drachm.</p>
+            </div>
+            <div n="37" type="chapter">
+               <pb n="60" facs="tcp:60906:35"/>
+               <head>CHAP. XXXVII. <hi>His Golden Diaphoretic.</hi>
+               </head>
+               <p>THis is deſcrib'd by many Authors to be that Sulphur which is in the foeces of the vulgar Regulus; which being beaten and boild with Vinegar, the Sul<g ref="char:EOLhyphen"/>phur is precipitated to the lower part; af<g ref="char:EOLhyphen"/>terwards waſhing it very often, and dry<g ref="char:EOLhyphen"/>ing it, they uſe it to mundify the Blood, and provoke Sweat. But our's is more correct; becauſe the aforeſaid forms be<g ref="char:EOLhyphen"/>ing finiſh'd; it is again calcin'd in a For<g ref="char:EOLhyphen"/>nace for twenty four hours; or in a circular Fire, till it wax white, together with the fourth part of fulminant Gold. Then ti's digeſted in ardent <hi>Aqua vitae,</hi> which is kindled thrice; and ſo you have a very good Diaphoretic, in Pleureſies and peſtilential Fevers; and is given from ſix<g ref="char:EOLhyphen"/>teen Grains to twenty.</p>
+            </div>
+            <div n="38" type="chapter">
+               <pb n="61" facs="tcp:60906:35"/>
+               <head>CHAP. XXXVIII. <hi>His Common Diaphoretic.</hi>
+               </head>
+               <p>THis is the Common Regulus, thrice calcin'd; always with double quan<g ref="char:EOLhyphen"/>tity of Nitre rectify'd, and then dulcify'd, and <hi>Aqua vitae</hi> kindled thereupon; It is given from a Scruple to half a Drachm, or to one Drachm; againſt all chronic di<g ref="char:EOLhyphen"/>ſeaſes; where it will work upon them by ſweat, or inſenſible tranſpiration.</p>
+            </div>
+            <div n="39" type="chapter">
+               <head>CHAP. XXXIX. <hi>His Fixt Diaphoretic.</hi>
+               </head>
+               <p>IT is the fix'd Powder of Father <hi>Bazil Valentine,</hi> which he propoſes for an univerſal remedy; and ſometimes under the name of <hi>Bazil</hi>'s fix'd <hi>Panacea;</hi> deſ<g ref="char:EOLhyphen"/>crib'd in the Triumphal chariot of Antimo<g ref="char:EOLhyphen"/>ny of the ſame Author.</p>
+            </div>
+            <div n="40" type="chapter">
+               <pb n="62" facs="tcp:60906:36"/>
+               <head>CHAP. XL. <hi>His univerſal liquid Panacea, with Gold.</hi>
+               </head>
+               <p>TAke an Ounce of leaf Gold, and cal<g ref="char:EOLhyphen"/>cine it with Sulphur, in a circulatory Fire for eight hours; adding Sulphur four times; then waſh with warm water; and being dry'd join it to Oil of Antimony, made after this manner.</p>
+               <p>Take of the <hi>Regulus</hi> of Antimony, Mer<g ref="char:EOLhyphen"/>cury ſublimate, of each four Ounces; mix them well in a M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tar, and diſtil them with a Retort; as you uſe to do in <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um glaciale,</hi> or Butter of Antimony: Add then Fire by degrees, till it be converted into Butter; putting coals alſo to the neck of the Retort; put that Oil into a Wine Cellar upon a ſtone, with a Veſſel under it, to receive drop by drop; and you have an Oil; to one Ounce of which add one Ounce of Gold calcin'd by circent, as afore<g ref="char:EOLhyphen"/>ſaid. Then put your Veſſel in a warm place, digeſting for a month together, for it will be ting'd into a Golden color. Then
+<pb n="63" facs="tcp:60906:36"/>add rectify'd Spirit of Wine, and put it into an hot place, as before, and the <hi>Aqua vitae</hi> will attract all the Gold to it ſelf: ſtrain it, and adding <hi>Aqua vitae</hi> again until it be tinged, exhale the Oil; and the Powder will remain; you ſhall put this with eight Ounces of crude Antimony, and twenty Ounces of Oil of <hi>Nitre</hi> made <hi>per deliquium,</hi> into a Veſſel, which you ſhall ſtop very cloſe, to digeſt. At a months end add a quart of rectify'd Spirit of Wine; and digeſt again; and the Tincture will in a ſhort time be rob'd of its men<g ref="char:EOLhyphen"/>ſtruum, join this Spirit with that of the Gold; and add another Spirit upon the Oil of Nitre; until the color be detected; for it ought to remain, as it was when it was firſt placed. Then filtrate theſe Spi<g ref="char:EOLhyphen"/>rits through a Paper; and diſtil them with cinders, by degrees; until there remain four Ounces of the Tincture, in the lower part of the Retort: And this is our uni<g ref="char:EOLhyphen"/>verſal liquid <hi>Panacca;</hi> which works by tranſpiration; And gently forces the vital faculties, to do thoſe things which Nature hath need of; without doing any damage. Many Hectical, Phthyſical, and Hydropical
+<pb n="64" facs="tcp:60906:37"/>Patients have been cur'd and obtain'd their health by me, with this: And you may give thereof from eight drops to twenty; with Specifies; and it works ſooner or later as the ſtrength is.</p>
+            </div>
+            <div n="41" type="chapter">
+               <head>CHAP. XLI. <hi>His Tincture, or true Oil of Sweet Antimony.</hi>
+               </head>
+               <p>TAke of your clear Hyacinthine Glaſs of Antimony, four Ounces; Oil of Nitre made by <hi>deliquium,</hi> eight Ounces; the Antimony being beaten mix it with the aforeſaid Oil, in a glaz'd Veſſel well ſtopt; and digeſt for a month with an equal and temperate Fire; and that Oil will become reddiſh. Then add rectify'd Spirit of Wine, as you did before in your liquid <hi>Panacea,</hi> till the Oil be depriv'd of its Tincture. Then extract the Spirit and Tincture, which reſts in the lower part.</p>
+               <div type="uses">
+                  <pb n="65" facs="tcp:60906:37"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>'TIS very precious againſt all kinds of Diſeaſes, and litle inferior to the <hi>Panacea</hi> aforeſaid. 'Tis excellent good in inward Wounds and corroſive Ulcers; and other pernicious Diſeaſes. Its doſe is from eight to ten drops, in Wine, or other Specifies.</p>
+                  <p>
+                     <hi>Bazilius</hi> and others write that bodies are renewed and made to grow young by this; for it mundifies all impurities of the humors; which pollute the Blood; and is a very great-Cordial. It helps Hydro<g ref="char:EOLhyphen"/>prical, Cachectical, Hectical, and Phthy<g ref="char:EOLhyphen"/>ſical, and all ſuch like infirmities after a wonderful manner.</p>
+                  <p>Many others have written of this; but not eaſily to be done, for if you obſerve the manner of this operation, there is no need of diſtilling your <hi>menſtruum;</hi> for your <hi>Aqua vitae</hi> may be remov'd, and it will ſerve for other ſolutions.</p>
+                  <p>Other Tinctures are made after the ſame manner, and all good; but theſe two excel
+<pb n="66" facs="tcp:60906:38"/>the other; that likewiſe which is extracted from crude Antimony is marvellous; be<g ref="char:EOLhyphen"/>cauſe the ſimple Nitre attracts the Tin<g ref="char:EOLhyphen"/>cture; and the Fire conſumes nothing thereof; and is call'd a <hi>Panacea.</hi> It is ex<g ref="char:EOLhyphen"/>tracted from the vulgar Regulus of the third degree; from <hi>Ambars,</hi> from <hi>Regulus</hi> of <hi>Mars,</hi> from Regulus of Jupiter, from <hi>Crocus metallorum,</hi> from flowers of Anti<g ref="char:EOLhyphen"/>mony; from calcination of the ſame; and if it be extracted with the ſaid <hi>menſtruum,</hi> it will be much better, than from diſtill'd Vinegars, and other ſuch liquors; its doſe is from half a Scruple to one Scruple.</p>
+                  <p>His Corroſive Oils are of two ſorts; to wit, his <hi>Oleum glactale,</hi> that is the but<g ref="char:EOLhyphen"/>ter, that I ſpeak of to diſſolve Gold; and this corrodes all bad fleſh: The other is a liquor which is made of the foeces of the vulgar Regulus, by <hi>deliquium.</hi>
+                  </p>
+                  <p>Thoſe are accounted for Eſſences by ma<g ref="char:EOLhyphen"/>ny, which I call by the name of Tinctures or Extracts. But I call thoſe Eſſences which are made after this manner.</p>
+                  <p>Take of the Simple from which you will extract an Eſſence, Flowers, Barks, Peels, Seeds, Roots, if you can have them
+<pb n="67" facs="tcp:60906:38"/>all; and macerate them in rectify'd Spirit of Wine, for two days; then diſtil to a dryneſs. Then imbibe that Spirit again with the herbs or flowers of the ſame, and digeſt them again in a Veſſel well ſtopt; and diſtil a freſh; and follow the ſame courſe twice; then circulate, and you will have a vegetable Eſſence, for your uſe. Thoſe which he uſed for the moſt part are thoſe of Wormewood, Mint, Roſemary, Sage, Spike, Lillies of the Vally, Marygold<g ref="char:EOLhyphen"/>leaves, flowers of the Lentil tree, Peony, Oak, Angelica, Carline, Swallow-wort, Celandine, Eyebright, Biſtort, Tormentil, Contrayerva, Jumper and Bay-berryes, Ani-ſeed and Fenil-ſeed, and Cummin, Par<g ref="char:EOLhyphen"/>ſnip, and Carots-ſeeds, Cardamoms, Ga<g ref="char:EOLhyphen"/>langa, Citron-peels, and ſuch like.</p>
+               </div>
+            </div>
+            <div n="42" type="chapter">
+               <pb n="68" facs="tcp:60906:39"/>
+               <head>CHAP. XLII. <hi>Q<g ref="char:V">Ʋ</g>INTESSENCES.</hi>
+               </head>
+               <p>THeſe are made after another man<g ref="char:EOLhyphen"/>ner than your Eſſences; for you materials muſt be ſermented; as moſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> writers direct; and then an Oil ſeparate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by diſtillation; what's ſeparated is the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> true Quinteſſence; your liquid Tincture<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are extracted with Spirit of Wine; by ex<g ref="char:EOLhyphen"/>haling part thereof. Some Extracts are made with diſtill'd waters by the help <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> acid Liquors: They are extracted from minerals and ſemiminerals, with their pre<g ref="char:EOLhyphen"/>per <hi>menſtruums;</hi> as may more fully appear from our Laboratory.</p>
+            </div>
+            <div n="43" type="chapter">
+               <pb n="69" facs="tcp:60906:39"/>
+               <head>CHAP. XLIII. <hi>FLINIRS.</hi>
+               </head>
+               <p>SInce we mention'd theſe in our Obſer<g ref="char:EOLhyphen"/>vations, 'tis neceſſary therefore to ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>licate ſome of them. As for your <hi>Flixir Proprietatis,</hi> I always follow'd <hi>Crellius</hi>'s way of proceſs; and can teſtifie of its very good effects. And I add, with him, of the Eſſence of Wormewood and Mint; as for example two Ounces of the Elixir, of the Eſſence of Wormewood and Mint of each one Ounce; digeſt them together, and uſe them, for it is a great ſtomachie. And ſo I add to the ſame, of the Eſſence of Celandine, Watercreſſes, Muſtard-ſeed, Snails, of each equal parts, and I digeſt them for a month; of which I give from a Scruple to half a Drachm. Againſt all atrabiliary diſtempers, and Scorbutic and Hypochondriac, with very happy ſucceſs.</p>
+            </div>
+            <div n="44" type="chapter">
+               <pb n="70" facs="tcp:60906:40"/>
+               <head>CHAP. XLIV. <hi>An Elixir againſt the Scurry and Hypo<g ref="char:EOLhyphen"/>chondrical effects.</hi>
+               </head>
+               <p>TAke two pounds of <hi>Elixir Propie<g ref="char:EOLhyphen"/>tatis,</hi> Eſſence of Ambar two Oun<g ref="char:EOLhyphen"/>ces, Eſſence of Capars and Tamarisk-Bark. Eſſence of the midle bark of Aſh, of each half an Ounce; white Dittany roots, Rha<g ref="char:EOLhyphen"/>pontic, Polypody, Scorzonera, Fern, Sweet root, of each two Drachms; Watercreſſes, Wall-houſe-leek, Germander, Celandine, Ceterach, Harts-rongue, Agrimony, Vine leaves with its flowers, Liverwort, Fuma<g ref="char:EOLhyphen"/>tory; flowers of Broom, Centaury, St. <hi>John's</hi>-wort, of each two handfuls, Broom-ſeeds, Fenel-ſeed, of each half a Drachm; <hi>Lignum ſancium</hi> raſpt, and its bark, of each four Ounces; Salſaparilla, one Ounce and an half, Saſſafras four Ounces; Salt of Tartar half an Ounce; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat them and infuſe them all in well re<g ref="char:EOLhyphen"/>ctify'd Spirit of Wine, and dephlegmated; as much as will ſuffice, till they be well
+<pb n="71" facs="tcp:60906:40"/>imbib'd, and it overtop them two fingers bredth, digeſt them eight days, diſtil, and in the diſtill'd repote a new compoſition, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s before; 'tis marvelous for Hypochon<g ref="char:EOLhyphen"/>driacs, and for thoſe that are aſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red with cold Rheums; the doſe is from one Scruple to half a Drachm in appropriate vehicles.</p>
+            </div>
+            <div n="45" type="chapter">
+               <head>CHAP. XLV. <hi>Elixir Nephriticum.</hi>
+               </head>
+               <p>TAke of true Nephritic wood one Ounce and an half; Camomil, Me<g ref="char:EOLhyphen"/>lilot, ground Ivy, Golden-rod, Flewellin, St. <hi>John's</hi>-wort, with its ſeed and flowers, Rupture-wort, or the Turkiſh herb; of each three handfulls, Reſt-harrow root, Pim<g ref="char:EOLhyphen"/>pernel, Saxifrage, of wild Roſe-ſeeds, and Gromwel of each two Ounces, win<g ref="char:EOLhyphen"/>ter Cherryes three Ounces; Juniper and Ivy-berryes, of each one Ounce and an half; being all beaten, put them into a Veſſel well ſtopt, with Spirit of Wine
+<pb n="72" facs="tcp:60906:41"/>terebinthinated; which muſt be upper<g ref="char:EOLhyphen"/>moſt the bredth of four ſingers; then di<g ref="char:EOLhyphen"/>geſt for eight days; then diſtil; and a<g ref="char:EOLhyphen"/>gain infuſing the ſame things green, do as before; the doſe is of this from a Scruple to half an Ounce: And 'tis an excellent thing for Gravel and the Stone.</p>
+            </div>
+            <div n="46" type="chapter">
+               <head>CHAP. XLVI. <hi>An <g ref="char:V">Ʋ</g>terine Elixir.</hi>
+               </head>
+               <p>TAke Mug-wort Rupture-wort, Fe<g ref="char:EOLhyphen"/>verfew, Peny-Royal, Catmint, of each three Drachms; Peels of Citrons and Pome-Citrons, of each half a Drachm; of the roots of Swallow-wort, Birth-wort, Peony, Madder, Bryony, Oris, white Ditany, Zedoary, Ani-ſeed and Cardamum-ſeeds of each half an Ounce; Bazil two Drachms, Bay-berryes, two Ounces; Gin<g ref="char:EOLhyphen"/>ger, Cinamon, Nutmegs and Saffron, of each one Ounce, being all beaten, digeſt them in Spirit of Wine, alchoolizated, three pints, in a Veſſel cloſe ſtopt, and in
+<pb n="73" facs="tcp:60906:41"/>a warm place, to wit, in Horſe-dung, or <hi>Balneo Martae;</hi> at fourteen days end diſtil in <hi>Balneo Mariae;</hi> and then add to the foeces, a pint of new Spirit of Wine; and digeſt again in an hot place. At eight days end ſeparate the ting'd Spirit by inclinati<g ref="char:EOLhyphen"/>on; and exhale the Tincture with a very gentle Fire, until it be converted into a mellagenous ſubſtance. Add this to the firſt diſtillation; burn the foeces to aſhes; and extract a Salt with water of Mug<g ref="char:EOLhyphen"/>wort; which you ſhall join to the afore<g ref="char:EOLhyphen"/>ſaid Elixir, together with an Ounce of Tincture of Tin. It works alter a heaven<g ref="char:EOLhyphen"/>ly manner in diſeaſes of the Womb; and all diſeaſes that draw their origine from the Womb. The doſe is from half a Drachm to a Drachm, in proper Liquor; and may be adminiſtred during ſeveral days, according as neceſſity requires.</p>
+            </div>
+            <div n="47" type="chapter">
+               <pb n="74" facs="tcp:60906:42"/>
+               <head>CHAP. XLVII. <hi>His Antiepileptical Extract.</hi>
+               </head>
+               <p>TAke of the Extract of an humane <hi>cra<g ref="char:EOLhyphen"/>nium,</hi> made according to Art, half an Ounce; Extract of Box, the root and ſeed of Peony, Oak-wood, Flowers of Lilly of the Vally, and Flowers of Line-tree of each two Drachms; of the mucilage of an Harts-horn of one year old, three Drachms; of true Oriental Bezoar Stone, true Unicorns-horn, true Elks-hoof, of each one Drachm; of the Extract of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wal<g ref="char:EOLhyphen"/>lows and Magpies, before they fly out of their neſts, Peacocks-dung, of each one Drachm and an half; of our Narcotic Vitriol, Salt of Silver, A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bar, of each two Drachms, Magiſtery of Pearls, Co<g ref="char:EOLhyphen"/>rals and Saphirs, of odoriferous ſlowers of Sweet-root, the true Balſam of <hi>Peru</hi> of each half a Drachm; of our ſixt Dia<g ref="char:EOLhyphen"/>phoretic of Antimony, half an Ounce; of our Univerſal Tin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ure of Antimony with Gold, three Drachms; mix them and
+<pb n="75" facs="tcp:60906:42"/>make a compound whereof you ſhall give either in Pills, or proper Liquor, from half a Scruple to half a Drachm; for a doſe, for fifteen days, in the morning in the wain of the moon.</p>
+               <p>With this have many Epileptics been wholly freed, though I gave it to ſome for months together, more or leſs; and though it be laborious and coſtly, yet it challenges a place amongſt the moſt pow<g ref="char:EOLhyphen"/>erful. Uſed after the ſame manner, 'tis very good againſt all Megrims, Palſies, Apoplexies, and capital diſeaſes proceeding from a cold diſtemper.</p>
+            </div>
+            <div n="48" type="chapter">
+               <head>CHAP. XLVIII. <hi>His Polycreſt, or Tincture of many uſes.</hi>
+               </head>
+               <p>TAke of the roots of Angelica, Car<g ref="char:EOLhyphen"/>line, white Dittany, Biſtort, Tor<g ref="char:EOLhyphen"/>mentil, of each three Drachms; Swal<g ref="char:EOLhyphen"/>low-wort, Gentian, Rhapontic, Scorzo<g ref="char:EOLhyphen"/>nera, true <hi>Acorus,</hi> of each half an Ounce, of the leaves of Wormewood, Southern<g ref="char:EOLhyphen"/>wood,
+<pb n="76" facs="tcp:60906:43"/>ground Ivy, of each half an hand<g ref="char:EOLhyphen"/>ful; of the ſlowers of Roſemary, Centau<g ref="char:EOLhyphen"/>ry the leſs, Clary, Betony, Pome-citrons of each one pugil, of Cinamon, Nutmegs, Cloves, of each one Drachm, Myrrh, Maſtic, Aloes-Succotrine, of each two Scruples, red Coral prepar'd, Harts-horn, Mother of Pearl prepar'd, of each one Drachm and an half; Saffron one Scruple, <hi>Aſſa dulcis,</hi> Spikenard, of each one Drachm, Peels of Citron and Pome-citrons, of each one Ounce and an half; of all the ſorts of Sanders, of each half an Ounce; beat all theſe, and infuſe them in a glaſſen Veſſel well ſtopt, in nine pints of choice alcooliza<g ref="char:EOLhyphen"/>ted Spirit of Wine, to digeſt for fifteen days; then ſeperate your Tincture by decantation, and add thereto the Salt made of the foeces according to Art; this Tin<g ref="char:EOLhyphen"/>cture excels in many Virtues; as your <hi>Elixir vitae;</hi> it recreats the vital Spirits; and expels from them all venemo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Va<g ref="char:EOLhyphen"/>pors; 'tis given in all malignant diſeaſes, in time of the Plague, and againſt all Poiſons, from a Scruple to a Drachm.</p>
+            </div>
+            <div n="49" type="chapter">
+               <pb n="77" facs="tcp:60906:43"/>
+               <head>CHAP. LI. <hi>His greater Elixir of life.</hi>
+               </head>
+               <p>TAke of the juice of Baum eight pounds, generous Wine four pounds, ſhavings of crude Harts-horn three pounds; Uni<g ref="char:EOLhyphen"/>corns-horn Bole-Armeny, of each half a pound; three Vipers the skins taken of, without their heads, tails or intrals, and diſtil them through an Alymbic well tinn'd; which hath a great refrigeratory; but let the fragments of the Harts-horn and Unicorns-horn be put in the neck of the Alymbic that they may receive all the ſume. After you have diſtill'd add new juice and Wine to the diſtillings again; and always new Harts-horn, and three Vipers, as aboveſaid, do this operation nine times; to every time adding freſh juice, and new Wine. And changing your Veſſel according to the capacity; the laſt time let all things be added to the aforeſaid Polycreſt Tincture, and let them be digeſted in Horſe-dung, or in a warm
+<pb n="78" facs="tcp:60906:44"/>
+                  <hi>Balneo Mariae</hi> for a month in capable glaz'd Veſſels, well clos'd: Then diſtil to dryneſs, extracting, not only from all the foeces, but alſo from the ſhavings of the horns, and earths, a Salt according to Art; which being mixt with the diſtillation, you ſhall circulate for two months.</p>
+               <p>This <hi>Elixir,</hi> although diſticult, yet 'tis not very chargeable; but I never ſound a more pretious one, among the many that I have uſed: for it operates more cor<g ref="char:EOLhyphen"/>dially then that of the moſt <hi>Serene</hi> grand Duke of <hi>Tuſcanie's.</hi> It may be given in all diſeaſes wherever the heart and <hi>viſcera</hi> have need of help; and to reſiſt poyſon and pu<g ref="char:EOLhyphen"/>trefaction, <hi>&amp;c.</hi> Its doſe is from half a Drachm to two Drachms; neither hath it the ſmell of <hi>Aqua vitae,</hi> but a moſt grateful and ſweet one.</p>
+            </div>
+            <div n="50" type="chapter">
+               <pb n="79" facs="tcp:60906:44"/>
+               <head>CHAP. L. <hi>His Tincture of Vipers.</hi>
+               </head>
+               <p>TAke twenty Vipers, their skins pul'd off and imbibe them in Spirit of Salt; and then add white Dittany of <hi>Crete,</hi> Tormentil, Biſtort, Swallow-wort, Scor<g ref="char:EOLhyphen"/>zonera, of each one Ounces; as much generous White-wine as will ſerve to im<g ref="char:EOLhyphen"/>bibe them, which muſt overtop them two ſingers bredth; and digeſt in <hi>Balneo Ma<g ref="char:EOLhyphen"/>riae,</hi> or Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe-d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng; at eight days end boil them in the ſame glaz'd Veſſel for two hours in <hi>B. M.</hi> and ſtrain them hard: Burn the dried foeces and extract a Salt from them; what remains is to be twice purify'd with the white of an Egg, and to be put into a warm <hi>B. M.</hi> again for three days; with moderate heat; for in this time it will be red like Blood.</p>
+               <p>This is Cordial and Alexipharmic; pro<g ref="char:EOLhyphen"/>fitable for Hectical, Phthyſical, Hydro<g ref="char:EOLhyphen"/>pical, Cachectical, putrid and malignant Fevers, and in time of the Peſt; and many
+<pb n="80" facs="tcp:60906:45"/>uſe it for a preſervative, for they affirm it clears the Blood; the doſe is from a Scruple to half a Drachm.</p>
+            </div>
+            <div n="40" type="chapter">
+               <head>CHAP. XL. <hi>His Antinephritic Extrall.</hi>
+               </head>
+               <p>TAke Firr-wood raſp'd and its bark one pound, Nephritic-wood half a pound; ſeven Ounces of the inward bark of Fil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erds, Saxifrage and Pimpernel, Peli<g ref="char:EOLhyphen"/>tory of the wall, Pupture-wort, of each one handful; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iquiris, Reſt-harrow. Bur<g ref="char:EOLhyphen"/>dock, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovage roots, of each one Ounce and an hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; ripe Juniper-berryes, Perſian Almonds, Cherry ſtone kernels, of each three O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nces: of the ſeeds of Ca<g ref="char:EOLhyphen"/>rots, Percely, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>impernel, Onions, Netles, Broom, of each half an Ounce; beat and br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe them all; then take of the juice of Rupture-wort, ground Ivy, Pellitory, Onions, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itrons, Rediſhes, of each one pound; generous Wine three pints; and with all the aforeſaid materials, put it into
+<pb n="81" facs="tcp:60906:45"/>a capable glaz'd Veſſel, well ſtopt in <hi>Bal<g ref="char:EOLhyphen"/>neo</hi> for eight days; then preſs them ſtrong<g ref="char:EOLhyphen"/>ly, and clarify them with the white of an Egg, and ſtrain them, and exhale by an Al<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> in <hi>B. M.</hi> until they become in form of a liquid Extract. Then you ſhall add theſe things following; Magiſtery of Crabs-eyes, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gg-ſhells, Mother of Pearl, mountain Chriſtal; of each one Drachm and an half; volatile Salt of Beans, Pellitory, Ambar, Urine, of each one Drachm, mix them and keep them for uſe.</p>
+               <p>This is a very great Remedy againſt all kinds of Stones, Gravel and the like; and excels others in extinguiſhing pains of the Reins: The doſe is from half a Drachm to a Drachm either in Pills, or proper Li<g ref="char:EOLhyphen"/>quors.</p>
+            </div>
+            <div n="52" type="chapter">
+               <pb n="82" facs="tcp:60906:46"/>
+               <head>CHAP. LII. <hi>His Antifebrile.</hi>
+               </head>
+               <p>TAke of China root, bark of Tamarisk, and Aſh, of each one Ounce; leaves of Germander, Celandine, Pimpernel, the leſſer Turnſoil of each a handful; diſtill'd water of the juice of Turnſoil, and from the juice of tender tops of Aſh leaves of each three pounds; Spirit of Vitriol ſtibi<g ref="char:EOLhyphen"/>ated two Drachms; being all beaten, in<g ref="char:EOLhyphen"/>fuſe them in the aforeſaid waters, in a Glaſs Veſſel well ſtopt, in <hi>B. M.</hi> at twelve days end extract all the moiſture by ſtrong expreſſion; and make a Salt of the dry'd and burnt foeces; make an Extract of the Liquor by the heat of a Balneum, accord<g ref="char:EOLhyphen"/>ing to Art; then take of this Extract two Ounces, Extract of Rhubarb, Sena, of hedge Hyſop, of each half an Ounce; Magiſtery of Mechoacan, and Jalap of each one Drachm; of Salt of the aboveſaid foeces, Salt of the leſſer Centaury, Gen<g ref="char:EOLhyphen"/>tian, and Worme-wood vitriolated, of vi<g ref="char:EOLhyphen"/>triol
+<pb n="83" facs="tcp:60906:46"/>of Mars, of each one Drachm; Magi<g ref="char:EOLhyphen"/>ſtery of long ſmall Snails-ſhells of the Lake, half an Ounce; Magiſtery of Tartar ſolu<g ref="char:EOLhyphen"/>tive, two Drachms; all theſe you muſt ferment for twelve days; and this is given in all kinds of Fevers, as well intermitting as continual. It ſtays the Vapors of Fe<g ref="char:EOLhyphen"/>vers, and purges pleaſantly; and is one of the moſt perfect that can be given; and beſides it hath never harm'd any one; the doſe is from half a Drachm to a Drachm and an half.</p>
+            </div>
+            <div n="53" type="chapter">
+               <head>CHAP. LIII. <hi>His ſtibiated Spirit of Vitriol, which en<g ref="char:EOLhyphen"/>ters into his Aqua Catholica and Antife<g ref="char:EOLhyphen"/>brile Extract.</hi>
+               </head>
+               <p>TAke Spirit of Vitriol rectify'd one Ounce, Hyacynthine Glaſs of Anti<g ref="char:EOLhyphen"/>mony, half an Ounce; digeſt them in a warm place for a month, and your Spirit will be ting'd into a Golden color; ſtrain it and reſerve it for uſe This Spirit, with
+<pb n="84" facs="tcp:60906:47"/>other purging Medicines, from twelve to twenty drops, works pleaſantly, and with<g ref="char:EOLhyphen"/>out Vomit, and corrects their heat.</p>
+            </div>
+            <div n="54" type="chapter">
+               <head>CHAP. LIV. <hi>His purging Magiſtery of Tartar.</hi>
+               </head>
+               <p>THis is deſcrib'd by many, but they put not that Truſt in it which they ought; for Phyſitians don't mind the way of compoſition, which is this which follows.</p>
+               <p>Take Salt of Tartar made of the Oil of the ſaid Tartar, one part, the ſtrongeſt diſtill'd Vinegar, two parts; mix them to<g ref="char:EOLhyphen"/>gether: after they begin to ferment with an inward murmuring, diſtil to a dryneſs; then add new Vinegar, and the aforeſaid ſub<g ref="char:EOLhyphen"/>limation begining again, let them be dulcily<g ref="char:EOLhyphen"/>ed: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er the Vinegar puts off the Salt with its <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; and the Salt throws off the Vine<g ref="char:EOLhyphen"/>gar with its Acrimony; then diſtil again, and this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peration you muſt perform ten <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; until the Vinegar reaſſumes its <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; and you muſt always diſtil
+<pb n="85" facs="tcp:60906:47"/>to the fixing of the Tartar. To the fix'd matter of the tenth operation add diſtill'd and rectify'd <hi>Aqua vitae,</hi> made of the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eces of Wine; and it will ſuddenly be ting'd into a red color; then ſtrain the Tincture; and pour on <hi>Aqua vita</hi> again; till it will tinge no more; then filtrate and diſtil again to dri<g ref="char:EOLhyphen"/>neſs; what remains ſix'd, will be diſſolv'd into an Oily liquor by the Air; which is then ſolutive Magiſtery of Tartar.</p>
+               <div type="uses">
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THis diſſolves groſs and tenaceous hu<g ref="char:EOLhyphen"/>mors, in the Veins; but 'tis a certain and neceſſary remedy in all vitious and long Fevers; yea my Maſter <hi>Riverius,</hi> at the end of acute and contumacious Fevers, to diſſolve the reliques of the humors and the ferment, purg'd his Patients by degrees, after this manner.</p>
+                  <p>Recipe, of Maiden-hair-Water or the like, proper for the peccant humor, ſix Ounces; Sena two Scruples, Cinamon, Rhubarb, of each one Scruple; ſtibiated or common Spirit of Vitriol three drops; theſe he infus'd for a night; and ſtrain'd
+<pb n="86" facs="tcp:60906:48"/>them in the morning, and adding fifteen or twenty drops of the ſaid Magiſtery, he gave four or five times, more or leſs, as need required; to ſome every day, to others every other day; to ſome a leſs, to others a greater doſe; to ſome in lieu of <hi>Rhubarb</hi> he gave <hi>Mechoacan,</hi> or Jalap; to ſome he gave an Ounce of Roſes ſolutive; and after this manner bodies were freed from infection; and Fevers from becom<g ref="char:EOLhyphen"/>ing erratic. I have us'd and uſe this me<g ref="char:EOLhyphen"/>thod, as alſo many Phyſitians of my ac<g ref="char:EOLhyphen"/>quaintance, have got great Praiſe thereby.</p>
+               </div>
+            </div>
+            <div n="55" type="chapter">
+               <head>CHAP. LV. <hi>His Febrifuge.</hi>
+               </head>
+               <p>TAke ſlowers of Antimony thrice ſubli<g ref="char:EOLhyphen"/>med with <hi>Sal-Armoniac,</hi> and dulcify'd; very clear Hyacinthine Glaſs of Antimo<g ref="char:EOLhyphen"/>ny, of each half an Ounce; <hi>Aqua fortis</hi> made with Nitre, and Alum, four Oun<g ref="char:EOLhyphen"/>ces; precipitate the ſaid Antimony in Water, and again take Mercury revivify'd
+<pb n="87" facs="tcp:60906:48"/>from Cinabar, ſix Ounces; and, with <hi>Aqua fortis</hi> made with Nitre, Vitriol and Alum precipitate, till all become precipitated. Then take Gold of Venetian or Hungary Chehiens fil'd, to one Ounce, and diſſolve it <hi>Aqua Regia,</hi> and put the three menſtroums with the materials into a Retort well luted; diſtil by degrees to dryneſs; gather the Spirit in a Recipient well ſtopt, and pour the diſtill'd into a Retort; diſtil again, twelve times after the ſame manner, al<g ref="char:EOLhyphen"/>ways upon <hi>Caput Mortuum.</hi> The laſt time, break the Retort, and waſh the Powder five times with Cordial Waters; and be<g ref="char:EOLhyphen"/>ing dry'd put it into a quart of <hi>Aqua vitae</hi> rectify'd, and diſtil again in a new Retort, well luted, cohobating ſix times upon the Maſs; then ſeparate the <hi>Aqua vitae,</hi> and put the Maſs of Calx into a ſtrong Cruci<g ref="char:EOLhyphen"/>ble well luted in a circulatory Fire, for three hours: Then take away, and kindle the <hi>Aqua vitae</hi> upon them.</p>
+               <p>This Febrifuge is compos'd of three <hi>Her<g ref="char:EOLhyphen"/>cules</hi> with our Maſter, the forth Champion the deſtroyer of quartane Agues, as may appear from inumerable experiments from his, and my obſervations: The doſe
+<pb n="88" facs="tcp:60906:49"/>is from ſix Grains to twenty with Reſin of Scammony, or Scammony prepar'd with Sulphur, from twelve Grains to fifteen, according to the ſtrength of the Patient. Many have ſearched for this; but not by true and legitimate operations, but this is the only ſincere one.</p>
+            </div>
+            <div n="56" type="chapter">
+               <head>CHAP. LVI. <hi>Very good Salts, which he uſed in pertinaceous and Autumnal Fevers, and to diſſelve He<g ref="char:EOLhyphen"/>terogeneous humors.</hi>
+               </head>
+               <p>TAke Salt of Gentian, of Centaury the leſs; Celandine, Worme-wood, Car<g ref="char:EOLhyphen"/>duus Benedictus, Self-heal, of Vitriol of <hi>Mars,</hi> ſlower of <hi>Sal-Armoniae,</hi> of each one Ounce; water of Agrimony, or ſuch like, as much as will ſuffice to diſſolve the aforeſaid Salts, and make a <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>xivinm;</hi> decoct with a gentle Fire, until there ariſe a skin a top; and put it in a cold and molſt place, and they will be cryſtalliz'd.</p>
+               <div type="uses">
+                  <pb n="89" facs="tcp:60906:49"/>
+                  <head>Virtues, <g ref="char:V">Ʋ</g>ſes and Doſes.</head>
+                  <p>THeſe conſume obſtructions and viti<g ref="char:EOLhyphen"/>tious intermitting Fevers; proceed<g ref="char:EOLhyphen"/>ing from impurities, as quartanes, <hi>&amp;c.</hi> the doſe is from one Scruple to half a Drachm, and a Drachm in Broth; or ſome proper Liquor: They are given to ſome two hours before the ſit; covering the Sick that they may ſweat.</p>
+                  <p>My Maſter gave a Salt made of <hi>Alum</hi> and <hi>Tartar,</hi> which he highly extoll'd, but I never us'd it; 'tis this;</p>
+                  <p>Take Cream of Tartar and Alum, of each equal parts, as much <hi>Card<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us</hi> Water diſtill'd, as will diſſolve them; and let them be re<g ref="char:EOLhyphen"/>duc'd by a gentle Fire into a form where<g ref="char:EOLhyphen"/>by they may be chriſtalliv'd, in a moiſt and cold place. Of this he gave from one Scruple to half a Drachm, in proper Li<g ref="char:EOLhyphen"/>quors.</p>
+                  <p>I alſo often give Vitriolated Salt of Worme-wood, or others; to wit, take Salt, and put it to Spirit of Vitriol, till there be a ſubbullition, which done eva<g ref="char:EOLhyphen"/>porate,
+<pb n="90" facs="tcp:60906:50"/>and it will be the leſs pungent; and apter to deobſtruct, and cooler; of Vitriolated Tartar many write, and 'tis given by Phyſitians.</p>
+                  <p>In like manner any of theſe Salts are join'd with Steel; if you take two parts of Salt, which you would chalibeat, and one of Vitriol of <hi>Mars,</hi> and diſſolve with ſome appropriat diſtill'd water, you may then condenſe into a Salt, with a gentle Fire, which will truly be chaly beated. After the ſame manner they are made with Vi<g ref="char:EOLhyphen"/>triol of <hi>Venus,</hi> with Salt of Luna, with Salt of Tin; and the like.</p>
+               </div>
+            </div>
+            <div n="57" type="chapter">
+               <head>CHAP. LVII. <hi>His Famous Antiſcorbutic Salt.</hi>
+               </head>
+               <p>TAke of the white and ſearſed aſhes of Aſh-tree, Juniper, Box, <hi>Lignum ſan<g ref="char:EOLhyphen"/>ctum,</hi> criſp Mint, Germander, Agrimony, Centaury, Liver-wort, Cetrach, Harts tongue; Fumitory, Elder-budds, Water<g ref="char:EOLhyphen"/>creſſes, Capars, Tamariſc, Broom, St. <hi>John</hi>-wort;
+<pb n="91" facs="tcp:60906:50"/>Sea-Porcelane, ſprigs of Vine, of each equal parts; of which with water of Water-creſſes, make a Salt according to Art. Then take of this Salt two Ounces, and add two Drachms of Vitriol of <hi>Mars,</hi> Salt of Tartar aluminated half a Drachm; ſlowers of Sal-Armoniac thrice ſublim'd, two Drachms; twenty leaves of Gold; Common Spirit of Salt, as much as will ſuffice to imbibe, ſo that it overtop half a ſingers bredth; let the Spirit with the a<g ref="char:EOLhyphen"/>foreſaid materials be dryed, and make a Maſs, and 'tis called <hi>Riverius</hi>'s Antiſcor<g ref="char:EOLhyphen"/>butic; which is very exquiſite in Hypo<g ref="char:EOLhyphen"/>chondriacs and Cachectics, <hi>&amp;c.</hi> for it expells all impurities of the attribilious humors, and mundiſies the Veins; the doſe is from half a Drachm to one Drachm; in proper Liquor.</p>
+            </div>
+            <div n="58" type="chapter">
+               <pb n="92" facs="tcp:60906:51"/>
+               <head>CHAP. LVIII. <hi>His Extract of</hi> Lignum ſanctum, <hi>for the</hi> Lues Venerea.</head>
+               <p>THis differs from others becauſe I uſe the Extract, and menſtruum, which is ſudoriſie; after this manner.</p>
+               <p>Take <hi>Lignum ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> raſp'd, with <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bark, <hi>Salſaparilla,</hi> Cinamon, of each <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ounces, Saſſafras two Ounces; genero<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Wine ſix quarts; digeſt them in a Veſſel well <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>opt; after two days diſtil, and ex<g ref="char:EOLhyphen"/>tract a quart of the Spirit; which put by it ſelf; the other Wine exhale by <hi>B. M.</hi> till half be waſted; then ſtrain, and ſiltre, and exhale again by <hi>Balneum,</hi> until it be of the conſiſtence of Hony; and a litle harder. To every Ounce of this extract add two Drachms of Common Antimony diaphoretic, and half a Drachm of Orien<g ref="char:EOLhyphen"/>tal Bezoar; make Pills, of which give one in a morning from one Scruple, to half a Drachm, in half an Ounce of the <hi>Aqua vitae</hi> ſpoken of before; and let the Patient
+<pb n="93" facs="tcp:60906:51"/>be well covered; and in thirty days, more or leſs, they ſhall be freed from all evil quality of the aforeſaid diſeaſe; as I have often experienc'd, of this compoſition.</p>
+            </div>
+            <div n="59" type="chapter">
+               <head>CHAP. LIX. <hi>His potable Turpentine for Gonorrheas.</hi>
+               </head>
+               <p>TAke four Ounces of clear Terebinthine, and put it into a marble Mortar, with two yelks of Eggs, and mix them with a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oden peſtle, and they will be converted into a Liquor; adding a pint of water of Agrimony, mix them till it be wholly diſſolv'd. Then put it into a Glaſs Phiol, in <hi>B. M.</hi> for a night, and early in the morning ſtrain it through a broun Paper, or a linnen Cloth. Then add a pound or more of fine Sugar, with as much juice of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imons as will ſuffice for a gratefullneſs; and of this, you ſhall give one Ounce or an Ounce and an half, in the morning, to them that cannot take Pills.</p>
+            </div>
+            <div n="60" type="chapter">
+               <pb n="94" facs="tcp:60906:52"/>
+               <head>CHAP. LX. <hi>His Water againſt old Gonorrheas.</hi>
+               </head>
+               <p>TAke <hi>Lignum ſanctum,</hi> Maſtie-wood, the bark of Firr, of each four Ounces; beat them and infuſe them in four quarts of generous Wine; add Dittany and Oris roots, of each three Ounces; a handful of dry'd Mint: An handful and half of Vervene; Seeds of <hi>Agnus Caſtus,</hi> Rue, Letuce, of each three Ounces; well bruis'd; clear Terebinthine one pound; mix them and put them into a Glaſs cu<g ref="char:EOLhyphen"/>curbit for twenty four hours in a warm place, then diſtil by <hi>B. M.</hi> and of this give two or three ſpoonfuls; in the morn<g ref="char:EOLhyphen"/>ing for ſome days.</p>
+            </div>
+            <div n="61" type="chapter">
+               <pb n="95" facs="tcp:60906:52"/>
+               <head>CHAP. LXI. <hi>His potion againſt Gonorrheas and <g ref="char:V">Ʋ</g>lcers of the Reins and Bladder.</hi>
+               </head>
+               <p>TAke of the herb Prickmadam, two hand<g ref="char:EOLhyphen"/>fuls of the roots of Confound, Tor<g ref="char:EOLhyphen"/>mentil; Ladies Mantle, <hi>Solomon</hi>'s-Seal, Knotgraſs, Plantan, of each one Ounce and an half; Seeds of Quinces, <hi>Agnus Caſtus,</hi> Bue, Plantan, Roſes, of each one Ounce; juice of Limons one pound; <hi>Sanguis, Draconis, Crocus martis</hi> aſtringent, of each one Ounce; water of Mallow flowers three pints; macerate them for two days; then boil with a gentle Fire; and give two ſpoon<g ref="char:EOLhyphen"/>ful in the morning four hours before meat.</p>
+            </div>
+            <div n="62" type="chapter">
+               <head>CHAP. LXII. <hi>Concerning Extracts.</hi>
+               </head>
+               <p>IN my Maſter's <hi>Pharmacope<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> many O<g ref="char:EOLhyphen"/>perations ſeem to differ from theſe, but reduc'd to the form deſcrib'd by him; and
+<pb n="96" facs="tcp:60906:53"/>are of greater value then thoſe that <hi>Quer<g ref="char:EOLhyphen"/>citan</hi> and others uſe; not that <hi>Qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcitan</hi> and ſo many others wanted the beſt; but <hi>facile inventis addere;</hi> he kept an other a more profitable form; as appears from theſe <hi>Arcan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> deſcrib'd by me, which are amplify'd by the addition of Operations and Virtues.</p>
+               <p>My manner of Extracting Purges from Vegetables, according to the aforeſaid di<g ref="char:EOLhyphen"/>ſcipline, is thus; I Extract the juice from thoſe Plants, which I had gather'd before at proper times; and I digeſt in <hi>B.</hi> and clar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y very well; then I diſtil by ſepe<g ref="char:EOLhyphen"/>rating the Spirit; and I coagulate what reſts into the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of an Extract. After<g ref="char:EOLhyphen"/>wards I beat the preſs'd Plant, and the freſh on not preſs'd, and put them into a ſit Veſſel to diſtil by deſcent; ſuch a Veſ<g ref="char:EOLhyphen"/>ſel as they uſe to make Oils of Woods, having plac'd your Veſſel to receive the Oil with a <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Fire; which muſt always <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e more vehemently augmented all the hum<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y long extracted, I con<g ref="char:EOLhyphen"/>vert the reſt being burnt, into white aſh<g ref="char:EOLhyphen"/>es; but leſt the aſhes ſhould not be calcin'd enough, I cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine them again. Of this
+<pb n="97" facs="tcp:60906:53"/>with the Water or Spirit that is firſt ſepa<g ref="char:EOLhyphen"/>rated, I make a <hi>Lixivium;</hi> and by ſiltra<g ref="char:EOLhyphen"/>tion a Salt; according to uſe: The Oil ex<g ref="char:EOLhyphen"/>tracted by deſcent, which exhales an ig<g ref="char:EOLhyphen"/>neous odor, I mix with the aforeſaid Salt; and a litle clear and pure Salt of Tartar be<g ref="char:EOLhyphen"/>ing added to the ſame, I digeſt in a warm place; then I diſtil, always cohobating the Spirit upon the foeces, till the Oil by the ſtrength of the Salt be deſtitute of an <hi>Empyreuma.</hi> Then I reduce it into the form of Hony. I then add this mella<g ref="char:EOLhyphen"/>ginous ſubſtance to the extract firſt made; whereby all the Spirits of the Extract and faculties of the Salt, are united by this means. This is the perfecteſt proceſs that can be found out for Extractions. In uſing 'tis given according to ſtrength of the Compound, or the Rules of the <hi>Pharma<g ref="char:EOLhyphen"/>copoeas,</hi> yea rather in a leſs quantity, becauſe 'tis more Effectual.</p>
+               <p>In Herbs, Druggs, or dry Roots, or of litle juice, all the ſtrength is extracted with their proper <hi>menſtruum;</hi> and the mat<g ref="char:EOLhyphen"/>ter is ſo accommodated as before, by deſ<g ref="char:EOLhyphen"/>cent, and an Oil expreſs'd. Then is made a Salt; which is added to the Oil; and
+<pb n="98" facs="tcp:60906:54"/>being often rectify'd, as 'tis ſaid, is join'd to the Extract; but truely thoſe kind of Extracts are to be kept in Glaſs Veſſels ſtopt.</p>
+               <p>All ſorts of Extracts, may be made af<g ref="char:EOLhyphen"/>ter this manner as well Alexipharmic as Specific; though they were compounded of divers things; but I ſhall not ſtay to deſcribe the way; for one that is vers'd in the Art, needs no Inſtruction.</p>
+               <p>It is to be noted that your Extracts of Vulnerary Herbs, as <hi>Ariſtolochia,</hi> St. <hi>John</hi>'s-wort, Comfry, Star-wort, Veronica, Sa<g ref="char:EOLhyphen"/>nicle, ground Ivy, <hi>&amp;c.</hi> may not only be us'd inwardly; but alſo outwardly in form of Liniments, apply'd to wounds by it ſelf, or with other like; they work wonderful effects; for they ſtrengthen and contract, and defend the part from corruption; and bring it ſoon to a cicatrice; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o alſo thoſe Plants which are abſterſive and Ulcerative will the better perform their operations.</p>
+               <p>Concerning Oil of Vegetables for Spa<g ref="char:EOLhyphen"/>gyric uſe, many ſpag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ric Volums treat thereof, but I eſteem this to be the beſt way. Dry the Plant that you will have Oil from, and extra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t an Oil by deſcent,
+<pb n="99" facs="tcp:60906:54"/>as aforeſaid; then make a Salt of the aſhes; which join to the Oil; then with a litle <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lx vrva</hi> rectify the Oil; for the calx diſſipates the igneous odor, if you will pour it on, often times as the cuſtom is. Put it then into a Glaſs Veſſel to the Sun; mixing the flowers, or leaves of the pro<g ref="char:EOLhyphen"/>per vegetable for infuſion; or of another, if you intend a compound; for it re-aſ<g ref="char:EOLhyphen"/>ſumes a greateful odor, and according to the Virtues of the Plants, it receives thoſe degrees of increaſe; which are an hun<g ref="char:EOLhyphen"/>dred fold: And it is uſed after the ſame manner to the aforementioned concerns, by my firſt Maſter <hi>Letter John Faber,</hi> as well inwardly as outwardly.</p>
+            </div>
+            <div n="63" type="chapter">
+               <head>CHAP. LXIII. <hi>His Chymical Bazilicon.</hi>
+               </head>
+               <p>TAke diſtill'd Oil of Myrrh, Maſtich, Frankincenſe, of each an Ounce; Oil of Turpentine, <hi>Philoſophoru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> of wax diſtill'd, of each one Ounce; three yelks
+<pb n="100" facs="tcp:60906:55"/>of Eggs, mix them well and uſe them; for you will find wonders.</p>
+            </div>
+            <div n="64" type="chapter">
+               <head>CHAP. LXIV. <hi>His Balſam of Sulphur.</hi>
+               </head>
+               <p>TAke one Ounce of flower of Brim<g ref="char:EOLhyphen"/>ſtone, three Ounces of Oil of Tur<g ref="char:EOLhyphen"/>pentine, Oil of Violets three Ounces, mix them and let them boil in a glaz'd Veſſel, ſtiring them with a wooden Spathula, till they become very red; then take them from the Fire, and add Oil of wax, yelks of Eggs, of each half an Ounce; mix them and uſe it in all cancrous Ulcers, in all Wounds, Convulſions, and bruiſed and prick'd Nerves.</p>
+            </div>
+            <div n="65" type="chapter">
+               <pb n="101" facs="tcp:60906:55"/>
+               <head>CHAP. LXV. <hi>His mumiated Balſam.</hi>
+               </head>
+               <p>TAke of the Extract of round Birth<g ref="char:EOLhyphen"/>wort, the leſſer Centaury, of each half an Ounce; of the Extract of St. <hi>John</hi>'s-wort, the greater Comfry, of each one Ounce; Venice Turpentine, and white Hony, of each four Ounces, Myrrh an Ounce and a half; true Mummy three Ounces, <hi>Crocus martis,</hi> four Ounces; mix all theſe and infuſe them in a glazen Veſ<g ref="char:EOLhyphen"/>ſel, with three quarts of rectify'd <hi>Aqua vitae;</hi> and digeſt for a month; dayly ſtir<g ref="char:EOLhyphen"/>ing the ingredients that the Spirit of Wine may extract more eaſily the Tincture of the things; then ſeparate the Tincture di<g ref="char:EOLhyphen"/>ligently by inclination; and diſtil in <hi>Bal<g ref="char:EOLhyphen"/>neo,</hi> till there remain, as it were of the conſiſtence of Hony in the Alembie, which is your Balſam; which you may uſe to agglutinate all ſorts of Wounds; the diſtil<g ref="char:EOLhyphen"/>led Spirit is alſo of wonderful Virtue.</p>
+            </div>
+            <div n="66" type="chapter">
+               <pb n="102" facs="tcp:60906:56"/>
+               <head>CHAP. LXVI. <hi>His Apolectic Baiſam.</hi>
+               </head>
+               <p>TAke of the Eſſence, or diſtill'd Oil of Spike, Sage, Roſemary, Juniper, of each one Drachm; Rue, Marjoram, of each half a Drachm; Cinamon, Cloves, of each one Scruple; of Ambar one Drachm and an half; of the Extract of <hi>Berjoin, Storax calamit.</hi> Of the white oriental Balſam of each two Drachms; of <hi>Balſam</hi> of <hi>Peru,</hi> liquid oriental Baſam, of each half an Ounce, preſt Oil of Nut<g ref="char:EOLhyphen"/>megs, three Ounces; Ambar-greeſe of each one Drachm and an half; ſweet Musk, two Drachms; mix them and ſtir them over a very gentle Fire, until they be united; 'tis a very complete remedy for Epileptics and Apoplecties; it expells <hi>Vertigoes;</hi> defends the body from conta<g ref="char:EOLhyphen"/>gious corruptions of the Air; recreates the Heart and all the vital and animal fun<g ref="char:EOLhyphen"/>ctions: 'Tis to be uſed by anointing the coronal futures, and the Tempills, and by ſmelling to it.</p>
+            </div>
+            <div n="67" type="chapter">
+               <pb n="103" facs="tcp:60906:56"/>
+               <head>CHAP. LXVII. <hi>His Spirit of Sulphur, to conſolidate <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cers of the Lungs, and to cure their cor<g ref="char:EOLhyphen"/>roſions.</hi>
+               </head>
+               <p>TAke of the acid Spirit of Sulphur re<g ref="char:EOLhyphen"/>ctify'd, and imbibe thereon, by de<g ref="char:EOLhyphen"/>grees, two or three pounds of filings of Steel; and it will buble of it ſelf; and from thence become as it were of a ſaline qua<g ref="char:EOLhyphen"/>lity. Then put all into a Retort well lu<g ref="char:EOLhyphen"/>ted; and diſtil according to Art, and ex<g ref="char:EOLhyphen"/>tract a Spirit; Imbibe in this again the <hi>Caput mortuum,</hi> and cohobate five times; in a new Retort every time; to the dul<g ref="char:EOLhyphen"/>cify'd Spirit add Magiſtery of Pearls, Rue, Oriental Balſam, and of <hi>Benjoin,</hi> of each one Ounce and an half; mix them, and it will be wonderful in the aforeſaid diſea<g ref="char:EOLhyphen"/>ſes; for all Pthyſics; whereof many have been cur'd by me with this.</p>
+               <p>
+                  <hi>Note.</hi> Your Magiſtery of Pearls is made by diſtilling, your Unions firſt in Oil of Sulphur, and then being well dulcify'd
+<pb n="104" facs="tcp:60906:57"/>with Cordial waters; afterwards exalting them with Spirit of Wine. Your Magiſtery of Benjoin and Oriental Balſam, are to be diſſolv'd in Spirit of Wine, and preci<g ref="char:EOLhyphen"/>pitated with Cordial waters, and then ſub<g ref="char:EOLhyphen"/>limated after the ſame manner as Sulphur: That which is ſublimated is purer, and beſt for the Lungs.</p>
+            </div>
+            <div n="68" type="chapter">
+               <head>CHAP. LXVIII. <hi>His Balſam of a Red-Dog.</hi>
+               </head>
+               <p>KILL a Red-Dog, and throwing a<g ref="char:EOLhyphen"/>way the Intralls, not the Fat, cut its fleſh and skin all into pieces, and break his bones ſmall; boil them all in a fit glaz'd Veſſel, with a ſufficient quantity of Oil and Wine; adding, Bears, Gooſe, Hens, Bad<g ref="char:EOLhyphen"/>gers, Foxes, Cats, Horſes, Aſſes greaſe, of each one Ounce; four pounds of Earth<g ref="char:EOLhyphen"/>worms waſh'd in Wine, roots of dwarf Elder, ground Ivy, of each three hand<g ref="char:EOLhyphen"/>fuls Sage, Spike, Roſemary, Worme-wood, Southern-wood; leaves of Cypreſs, bark
+<pb n="105" facs="tcp:60906:57"/>of Ivy and Elm, Savin, of each one hand<g ref="char:EOLhyphen"/>ful: boil all theſe, until the fleſh be con<g ref="char:EOLhyphen"/>ſum'd, then preſs them and put them into a ſtrong Retort well luted, with ſix Oun<g ref="char:EOLhyphen"/>ces of Ivy-Gum; and two pounds of the Wormes aforeſaid, ground Ivy ſix hand<g ref="char:EOLhyphen"/>fuls, twenty live Frogs, and digeſt it in a warm place three days; then diſtil and extract all the Oil, which you ſhall keep, for 'tis an Anodine, and conſolidates the Nerves, eſpecially in articular diſeaſes.</p>
+            </div>
+            <div n="69" type="chapter">
+               <head>CHAP. LXIX. Rulandus<hi>'s Emplaſter of Sulphur.</hi>
+               </head>
+               <p>TAke three Ounces of our Oil of Sulphur, three Drachms of Colo<g ref="char:EOLhyphen"/>phony, half an Ounce of wax, of Myrrh the weight of all; the Wax, Colophony and Oil being mixt, ſprinkle in the Myrrh by degrees, being very finely powdered, and boil them with a gentle Fire; always ſtirring them with a Spathula, until they be very well mixt; after a quarter of an
+<pb n="106" facs="tcp:60906:58"/>hour take them from the Fire, and let them cooll by degrees: And ſo you have a moſt excellent and infallible Emplaſter, for the curing of all kinds of Wounds and Ulcers; as his Experiments in his Centu<g ref="char:EOLhyphen"/>rys deſcribe, which you may always ſafely truſt; and in his ninety fourth cure, he ſays, that there is a divine, wonderful, and quick Virtue in this Emplaſter, of ſoften<g ref="char:EOLhyphen"/>ing, ſuppurating, breaking, abſterging and agglutinating, as by long experience hath been try'd.</p>
+            </div>
+            <div n="70" type="chapter">
+               <head>CHAP. LXX. <hi>His Toad Oil.</hi>
+               </head>
+               <p>TAke four live Toads, far from any water, and put them into a glaz'd pot well ſtop'd to purge; then take two pounds of common Oil, wherein boil Sage, Sowthiſtle, roots of Oris and Gentian of each one handful; and puting one of the Toads therein, ſet it over a Fire in an o<g ref="char:EOLhyphen"/>pen place, in a glaz'd Veſſel cover'd, but
+<pb n="107" facs="tcp:60906:58"/>take heed of the ſmoak; when the firſt is dry put in another live Toad; and that dry'd, a third, and ſo a fourth; and when 'tis boild <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rain the Oil; and this is very hot, and very good againſt all cold pains, againſt Scabs, Morphew and Dropſie; uſe it hot.</p>
+            </div>
+            <div n="71" type="chapter">
+               <head>CHAP. LXXI. <hi>His Anti-Apoplectic Balſam.</hi>
+               </head>
+               <p>TAke rectify'd Oil of Ambar, <hi>oleum petroleum Philoſophorum,</hi> Roſemary, Sage, Spike, being all diſtill'd) of each half a Ounce; Oil of Nutmegs, by ex<g ref="char:EOLhyphen"/>preſſion, two Ounces; Extract of Caſtor, Oil of Box. Camphar, of each one Drachm: Balſam of <hi>Peru,</hi> Occidental Opobalſam; Civet, of the Extract of Benjoin, of each half an Ounce; Musk, Ambar-griſe, of each one Scruple, mix them all, and with a moderate heat make a Balſam; which is prevalent againſt diſeaſes of the head by anointing the hinder part thereof, the
+<pb n="108" facs="tcp:60906:59"/>noiſtrills, and pulſe; againſt the Apo<g ref="char:EOLhyphen"/>plexy, Epilepſy, <hi>&amp;c.</hi> Collic pains and Hyſteric paſſions are remov'd by anointing the navil.</p>
+            </div>
+            <div n="72" type="chapter">
+               <head>CHAP. LXXII. <hi>His Pills againſt peſtilential diſeaſes.</hi>
+               </head>
+               <p>TAke waſh'd Aloes, Saffron, Myrrh, of each half an Ounce, Oriental and Occidental Balſam, of each half a Drachm, ſix bones of Harts-heart: Uni<g ref="char:EOLhyphen"/>corns-horn, Emeralds, Oriental Bezoar, Pearls, and Coral prepar'd, wood of Aloes, of each ten Grains, Ambar-griſe five Grains; our Tincture of Ambar-griſe; of Ambar, and Magiſtry of Tartar, of each, as much as will form a Maſs of Pills, where take one of half a Drachm weight; going to bed, twice a week. Theſe mundify the Blood, corroborate the Head and Stomach, help pains of the Heart, comfort all the Spirits, revive youth and retard old age.</p>
+            </div>
+            <div n="73" type="chapter">
+               <pb n="109" facs="tcp:60906:59"/>
+               <head>CHAP. LXXIII. <hi>His Water breaking the Stone.</hi>
+               </head>
+               <p>TAke green Wallnuts in the month of <hi>May,</hi> bruiſe them and diſtil them thrice, always cohobating with the diſtill'd water upon the freſh Nuts bruis'd; then extract a Salt; from the reſidue of the <hi>Caput mortunm;</hi> and 'twill be very powerful.</p>
+            </div>
+            <div n="74" type="chapter">
+               <head>CHAP. IXXIV. <hi>His Balſam againſt Aſthm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi>
+               </head>
+               <p>TAke Balſam of Sulphur made with Oil of Terebinthine, and his Oil of Sul<g ref="char:EOLhyphen"/>phur dulcify'd of each one Ounce; ſlow<g ref="char:EOLhyphen"/>ers of Sweet root, one Ounce and an half; two pounds of Oil of Sugar made with Spirit of Wine; mix them and make a Balſam; this is very profitable in all di<g ref="char:EOLhyphen"/>ſeaſes of the breſt, and lungs, the doſe is from half a ſpoonful to a ſpoonful.</p>
+            </div>
+            <div n="75" type="chapter">
+               <pb n="110" facs="tcp:60906:60"/>
+               <head>CHAP. LXXV. <hi>His Pills againſt all impurities of the blood and humors.</hi>
+               </head>
+               <p>TAke Extract of black Ellebore, with its ſixt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alt, half an Ounce, of our <hi>Ca<g ref="char:EOLhyphen"/>lomelanos</hi> two Drachms; leaves of parti<g ref="char:EOLhyphen"/>col<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d Gold half a Drachm; Magiſtery of Pearls one Drachm; mix them and make a Maſs of Pills, the doſe is from a Scruple to half a Drachm; If without <hi>Calonclanos,</hi> it may be given for four or five months twice in a week; but you will mundify the contumacy of the <hi>Lues venerea</hi> with the ſaid <hi>Calomclanos.</hi>
+               </p>
+            </div>
+            <div n="76" type="chapter">
+               <pb n="111" facs="tcp:60906:60"/>
+               <head>CHAP. LXXVI. <hi>His <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> againſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </head>
+               <p>TAke of Perſian bitter Almonds four pounds. Cypreſs Tere inthine three pounds, beat them and mix them well; then take three Ounces of expreſs'd Oil of Nutmegs, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alſam o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one Ounce and an half, Oil of Cloves half an Ounce; mix and diſtil them according to Art; and cohobate thrice upon the <hi>Capat <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tuum;</hi> then add Spirit of Vitriol roſated three Drachms; mix them and circulate for fifteen days; for 'tis very profitable againſt Colic pains; the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſe is from half a Scruple to one; in proper Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quors.</p>
+            </div>
+            <div n="77" type="chapter">
+               <pb n="96" facs="tcp:60906:61"/>
+               <head>CHAP. LXXVII. <hi>His Opthalmic water.</hi>
+               </head>
+               <p>TAke the juice of Celandine, Eyebright, Verbene of each half a pound; juice of River-Crabs eight Ounces; Aloes Suc<g ref="char:EOLhyphen"/>cotrine half an Ounce; crude <hi>Tutia,</hi> one Ounce; <hi>Crocus metallorum,</hi> one Ounce and an half; digeſt them with a gentle Fire for twenty four hours, then diſtil, and add to the diſtillation three Drachms of glaſs of Antimony; and boil them over a gentle Fire for an hour, then ſtrain and keep it; for it is excellent againſt dimneſs of ſight, Cataracts, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="78" type="chapter">
+               <pb n="112" facs="tcp:60906:61"/>
+               <head>CHAP. LXXVIII. <hi>His Arcanuum againſt the biting of a mad Dog.</hi>
+               </head>
+               <p>TAke the Liver of a mad Dog reduc'd to the form of a Magiſtery, and the Magiſtery of River-Crabs, of each one Ounce. Tincture of Oriental Saffron, Gentian, Caſtor, Myrrh, of each two Drachms; of the Quinteſſence of Vitriol, of common Salt, Antimony, Silver, of each half a Drachm; of St. <hi>John</hi>'s-wort-leaves, Betony, Yarrow, the leſſer Cen<g ref="char:EOLhyphen"/>taury, Mug-wort, Mint, Wormwood, Plantane, Polypody of the Oak, the leſſer Sage, Verven, Garden Rue, of each one pugil, of Moon-wort, three pugils, dry and powder them and with a ſuſſicient quantity of Gum draganth diſſolv'd in Scorzonera-water, and with the aboveſaid liquors make Troches, and give a Drachm for a doſe for four days, with ſome Cordial water, and you will ſee wonders.</p>
+            </div>
+            <div n="79" type="chapter">
+               <pb n="113" facs="tcp:60906:62"/>
+               <head>CHAP. LXXIX. <hi>His Tincture againſt Dyſenteries.</hi>
+               </head>
+               <p>TAke of Hares-blood dry'd half a pound rectify'd Spirit of Wine one pound and an half; digeſt them in <hi>B. M.</hi> for three days; then extract a Tincture according to Art; and coagulate to the conſiſtence of Hony; the doſe is from half a Scruple to one, with ſome Emulſion of Sorel-ſeed.</p>
+            </div>
+            <div n="80" type="chapter">
+               <head>CHAP. LXXX. <hi>His Balſam of Maſtich.</hi>
+               </head>
+               <p>TAke of the beſt Maſtich, as much as you will, diſſolve it in Spirit of Tere<g ref="char:EOLhyphen"/>binthine, over a warm Fire in <hi>B. M.</hi> then ſeparate the <hi>menſtruum</hi> from the diſſolv'd body, and then you have a Balſam for all diſeaſes of the body; for outwardly apply'd
+<pb n="114" facs="tcp:60906:62"/>to the mouth of the ſtomach; it ſtays vomiting; and inwardly you give five drops in Broth, or Wine.</p>
+            </div>
+            <div n="81" type="chapter">
+               <head>CHAP. LXXXI. <hi>His Arcanum againſt twiſting of the guts and vomiting.</hi>
+               </head>
+               <p>TAke of the aethereal Oil, or Quinteſ<g ref="char:EOLhyphen"/>ſence of Terebinthine, ſix Ounces, a Drachm and an half of Balſam of <hi>Peru,</hi> fine Maſtich ſix Drachms, mix and diſtil them, then cohobate thrice; and uſe it in Malago Wine; or Broth of red Cicers, or any other ſpecific liquor, the doſe is from ſix Grains to twelve; your <hi>oleum ethereum</hi> is good for the ſame, after the ſame man<g ref="char:EOLhyphen"/>ner.</p>
+            </div>
+            <div n="82" type="chapter">
+               <pb n="115" facs="tcp:60906:63"/>
+               <head>CHAP. LXXXII. <hi>His Spirit of fixt Nitre tartariz'd.</hi>
+               </head>
+               <p>TAke of Spirit of <hi>Nitre</hi> rectify'd one pound, put it into a glaſs Cucurbit, with a large mouth open; and pour on drop by drop and by degrees as much Oil of Tartar by <hi>deliquium;</hi> which will raiſe a froth; and ſo long pour on, as long as you ſhall obſerve no more froth to ariſe: The Tartar'd Nitre, will fall to the bottom; then decant, and dulciſy with Roſe-water; 'tis given in long diſeaſes with appropriat decoctions, from ſix drops to eight, in water of Crabs, or Ants, and 'tis Anti<g ref="char:EOLhyphen"/>frebriſic.</p>
+            </div>
+            <div n="83" type="chapter">
+               <head>CHAP. LXXXIII. <hi>His Emplaſter againſt a Pleuriſic.</hi>
+               </head>
+               <p>TAke three Ounces of Line-ſeed, Oni<g ref="char:EOLhyphen"/>ons and new Soap, of each one Ounce and an half; bruiſe and mix them;
+<pb n="116" facs="tcp:60906:63"/>then put them over the Fire in a Frying-pan; mixing them till they be incorpora<g ref="char:EOLhyphen"/>ted, ſpread theſe upon a ſtupe, and apply it to the Pleuretic part, and oppoſite pain; and you will ſee marvelous effects againſt this diſeaſe.</p>
+            </div>
+            <div n="84" type="chapter">
+               <head>CHAP. LXXXIV. <hi>His Emplaſter for broken and disjointed bones.</hi>
+               </head>
+               <p>THE bone being reduc'd into its place, take three Ounces of chimney-ſoot one Ounce of Frankincenſe, four Ounces of Wheat-flower; as many whites of Eggs as will ſuffice to bring the materials in<g ref="char:EOLhyphen"/>to a ſit conſiſtence; then apply it to the part with fit ſplinters and bandages; and remove it not till it fall off by help of na<g ref="char:EOLhyphen"/>ture; this may ſeem improper to ſome; but truely, I never ſaw any equal or excel this in ſuch like caſes; you may after<g ref="char:EOLhyphen"/>wards uſe Cerats of <hi>Oxycroceum,</hi> and ſuch like; as occaſion requires.</p>
+            </div>
+            <div n="85" type="chapter">
+               <pb n="117" facs="tcp:60906:64"/>
+               <head>CHAP. LXXXV. <hi>His Antipleuretic Oil.</hi>
+               </head>
+               <p>TAke four pound of common Salt in the month of <hi>May,</hi> wherein put humane <hi>pleurae,</hi> two pounds, three pounds of Cam<g ref="char:EOLhyphen"/>momil and white Lilly flowers; for two months place them in the Sun: Then preſs them with a preſs; and weigh the Oil; to which add a Pompion in Summer, the weight of the Oil, cutting away the mar<g ref="char:EOLhyphen"/>row and peel; and cutting it into pieces make it boil, until the Oil hath extracted all the moiſture from the Pompion; to wit, its ſmall pieces become dry. Then you ſhall have in a readineſs twelve pieces of new Iron red hot, every one weighing half a pound, and put them in ſingly into the Oil; and ſo twice made hot; you ſhall twice extinguiſh in the Oil; and then it will be complete. 'Twill prove won<g ref="char:EOLhyphen"/>derful if the pain'd parts be anointed there<g ref="char:EOLhyphen"/>with twice or thrice in a day.</p>
+            </div>
+            <div n="86" type="chapter">
+               <pb n="118" facs="tcp:60906:64"/>
+               <head>CHAP. LXXXVI. <hi>His <g ref="char:V">Ʋ</g>terine Powder.</hi>
+               </head>
+               <p>TAke Rupture-wort one handful, Bay<g ref="char:EOLhyphen"/>berryes husk'd, Parſnip-ſeeds, of each one Ounce; Rue and Agnus Caſtus and Peony-ſeeds, grains of Paradiſe, of each half an Ounce; Calamus Aromaticus, Caſ<g ref="char:EOLhyphen"/>ſia lignea, Mace, Cinamon, Cloves, of each three Drachms; <hi>Feculae Briontae, ſal Jovis,</hi> of each two Drachms; mix them and beat them into very ſine powder, whereof you ſhall give from half a Drachm to a Drachm, in Broths, Wine, Conſerves, or the like, againſt all diſeaſes of the Womb.</p>
+               <p>We cannot make publick all our <hi>Arca<g ref="char:EOLhyphen"/>naes,</hi> at this time, in this ſmall treatiſe; but if it ſhall pleaſe God to grant us two more years of life and health; I have many obſervations worth noting to pub<g ref="char:EOLhyphen"/>liſh; and a Laboratory, wherein ſhall be expounded moſt of the myſteries of Art; and cautions for errors, wherein Artiſts
+<pb n="119" facs="tcp:60906:65"/>offend. And although there are at this day many new Volums publiſh'd in the Italian and Latin, <hi>&amp;c.</hi> languages concern<g ref="char:EOLhyphen"/>ing the ſpagyric Art which have been collected from the Ancients; yet I alſo ſhall write of the ſame, but more co<g ref="char:EOLhyphen"/>rectly.</p>
+               <p>The Chymical Cup ſo often nominated in his Obſervations, and ſo commonly ad<g ref="char:EOLhyphen"/>miniſtred to all people, is not prepar'd, as ſome have ſuppoſed of the Vulgar <hi>Regulus</hi> of Antimony; true 'tis prepar'd from a <hi>Regulus,</hi> but of the third degree; which diſſers much from the Vulgar; although many alſo uſe this not without prejudice to the takers. I have been at <hi>Rome, Na<g ref="char:EOLhyphen"/>ples, Venice,</hi> and other Cities of <hi>Italy,</hi> and other Provinces, and I ſound many that would tell you they knew the ſecret of the Chymical Cup: But all prepar'd it of the common Regulus, or of that com<g ref="char:EOLhyphen"/>pounded with <hi>Mars;</hi> I diſcours'd many of them to penetrate, whether any of them knew how to ſeparate the Arſenical parts which the <hi>Regulus</hi> conteines, from the ſame; but they judg'd, when the Anti<g ref="char:EOLhyphen"/>mony is fired with Tartar and Nitre, that
+<pb n="120" facs="tcp:60906:65"/>thoſe Sulphurous foeces, which are then ſeparated, contain'd all the Impurity of the Antimony; and that was the Cup of the ANcients; But truely they are far from the truth; for they will find none of the claſſic and rational Authors uſing the ſim<g ref="char:EOLhyphen"/>ple <hi>Regulus,</hi> to make the Cup of, but for o<g ref="char:EOLhyphen"/>ther preparations. The Vulgar <hi>Regulus</hi> hath not as yet left its crudity; and made after the manner aforeſaid 'tis call'd <hi>Regulus</hi> of the firſt degree; whereof many compo<g ref="char:EOLhyphen"/>ſitions may be made; as the Starry <hi>Regulus,</hi> with filings of Iron; as the noble Ambar; which is a Regulus; and ſo with Gold, Silver, Tin, Iron; the other <hi>Regulus</hi> is made into an Ambar, with Iron, Braſs, Lead, Tin, Mercury and the <hi>Regulus;</hi> but how to attain to the top of the third degree, <hi>hic labor, hoc opus;</hi> and then it may be granted for perfect; as <hi>Cloſſius</hi> and <hi>Bazil Valentine</hi> celebrate it for the King of pur<g ref="char:EOLhyphen"/>ging medicaments; for it only draws ſo much out of the body as is hurtful to it; mundifies the Blood; and corroborates the uncorrupted humors, as is obſerv'd in thoſe that have taken thereof; who al<g ref="char:EOLhyphen"/>though they vomit, yet are they not at
+<pb n="121" facs="tcp:60906:66"/>all weakned thereby; and in this it dif<g ref="char:EOLhyphen"/>fers from other medicines. I celebrate theſe its praiſes, becauſe I write in the Latin lan<g ref="char:EOLhyphen"/>guage; and ſo they will not penetrate the ears of the ignorant; for I am not to put weapons into the hands of Children. I tell you truely for twenty two years paſt no other purging medicine hath entred my body, than Wine of the Chymical Cup; whereof I drink three or four times in a year; and, by the grace of God am per<g ref="char:EOLhyphen"/>plex'd with no infirmity at this time; and if you ſee it often mention'd in the Obſer<g ref="char:EOLhyphen"/>vations, this is becauſe it hath gain'd very great honor.</p>
+               <p>Here truely I muſt not neglect by any means to diſcover the frauds of ſome, which they are not a fraid to perpetrate; many of which make theſe Cups, and di<g ref="char:EOLhyphen"/>ſtribute them: Yet thoſe cannot attain to fly higher than the firſt degree; but that their operation may appear very beautiful and ſhining; they add marcheſite of crude Silver, which doth not only augment the beauty, but alſo multiplies the <hi>Regulas</hi> to the half; and ſo being greedy of Gold, they cheat you with a <hi>Regulus,</hi> and ſell
+<pb n="122" facs="tcp:60906:66"/>you Cups, as of the third degree: But theſe are moſt diligently to be avoided; for the Marcheſite in lieu of mundiſying the Blood, corrodes it; and though it quickly provoks bodies to vomit, it brings no ſmall damages thereto. The way to detect ſo great cheats, ſhall be more plain<g ref="char:EOLhyphen"/>ly laid down in our Chirurgery.</p>
+               <p>The compoſition of our Chymical Cup, of our aſtringent Balſam, and aſtringent Pills, is not in this treatiſe, but I reſerve it for another; and therein alſo ſhall be explicated the more hidden and noble <hi>Arcana;</hi> and theſe ſhall be the moſt celebrated ones of my moſt beloved Ma<g ref="char:EOLhyphen"/>ſter; and the three aforeſaid ſhall be the Captains: For I hope therein to lay down rare ſecrets of nature; to wit, I have ac<g ref="char:EOLhyphen"/>curately inveſtigated, with Virtuoſo's and other curious Perſons the natural virtues of minerals, ſemiminerals, ſtones, animals and vegetables, which work by an occult power; for thoſe are your true ſpecifies; from which I have ſeen wonders; neither could I know any thing therefrom.</p>
+               <p>In this ſecond work I ſhall put to light public Obſervations belonging to Chirur<g ref="char:EOLhyphen"/>gery;
+<pb n="123" facs="tcp:60906:67"/>which have and ſhall happen until this work ſhall come forth; and chiefly thoſe in the Kingdom of <hi>Naples,</hi> and at <hi>Venice</hi> where I now live; although I am not altogether fixt in this City: I am of<g ref="char:EOLhyphen"/>ten at the conſults of moſt excellent Phy<g ref="char:EOLhyphen"/>ſitians; as the moſt excellent, <hi>Bernardus Florius, Bracchus, Bravus, Cornelius</hi> and others; who have often been pleaſed to accept of my advice.</p>
+               <p>I have made experience in this City of my aſtringent Balſam in the houſe of the moſt illuſtrious, and moſt excellent the Count d' <hi>Avaux,</hi> Seigniour de <hi>Longueville</hi> Embaſſador of the Chriſtian King to this moſt ſerene Republic: To wit, the jugu<g ref="char:EOLhyphen"/>lar veins were cut in a porket by his Chi<g ref="char:EOLhyphen"/>rurgion; the greater Artery in the thigh of a Dog; and the Artery nigh the jugu<g ref="char:EOLhyphen"/>lar, was cut by me in another Dog; and all were heal'd only with our aſtringent Balſam; to the admiration of all people, in nine days time. And one <hi>Surdus</hi> a Bar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar in St. <hi>Vaw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> was cur'd of a broken ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery with this our Balſam: And a Pilot, whom a Surgion cutting of an Ulcer in his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irile parts, cut an Artery, which could not
+<pb n="124" facs="tcp:60906:67"/>be cloſs'd with Fire; the flux of Blood was ſtaid by our Balſam; and he reco<g ref="char:EOLhyphen"/>ver'd.</p>
+               <p>Another experiment was made in the houſe of the moſt Illuſtrious and moſt Ex<g ref="char:EOLhyphen"/>cellent the Marqueſs of <hi>Fuentes,</hi> the Spa<g ref="char:EOLhyphen"/>niſh Embaſſador, in a Dog; who had an Artery cut eight days before, and was cur'd. The moſt Excellent <hi>Pica,</hi> cut a vein quite aſunder, and while he call'd to the ſtanders by to ſee the Dog, during the ſpace, almoſt all its Blood ſlowed out of its body before the Balſam was apply'd, then the Balſam being apply'd that litle Blood that remain'd flowed no longer; but the Dog died the day following of an inani<g ref="char:EOLhyphen"/>tion with a terrible convulſion; by reaſon he could take no nouriſhment.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:60906:68"/>
+            <div type="part">
+               <head>
+                  <hi>Books Sold by</hi> Daniel Brown <hi>at the</hi> Black Swan <hi>and</hi> Bible <hi>without</hi> Temple-Barr.</head>
+               <p>A Proſpect of Government in <hi>Europe,</hi> and Civil Policy, ſhewing the Anti<g ref="char:EOLhyphen"/>quity, Power, Decay of Parliaments, with other Hiſtorical and Political Obſervations relating thereunto, by <hi>T. R.</hi> 8<hi>vo</hi> price 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>The Third Edition of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife, Bloody Reign, and Death of Queen <hi>MART.</hi> In this Edition is added an Account of the moſt Remarkable Judgments of God on many of the Perſecutors. Price Bound 1s.</p>
+               <p>
+                  <hi>Seldens</hi> Janus Anglorum.</p>
+               <p>The Myſtery and Method of his Maje<g ref="char:EOLhyphen"/>ſties <hi>Happy Reſtauration</hi> laid open to pub<g ref="char:EOLhyphen"/>lick View. By <hi>John Price</hi> Doctor of Di<g ref="char:EOLhyphen"/>vinity, one of the late Duke of <hi>Albermarle</hi>'s Chaplains, and Privy to all the Secret paſ<g ref="char:EOLhyphen"/>ſages and particulars of that Glorious Re<g ref="char:EOLhyphen"/>volution. 8<hi>vo.</hi> Price 1s. 6d.</p>
+               <p>The <hi>Impoſter Expoſed,</hi> in a Diſſection of a Villanous Libel (here Printed at large) Entituled a Letter to a Perſon of Honour concerning the <hi>Black-Box.</hi> 8<hi>vo.</hi> Price 1s. 6d.</p>
+               <p>A compendious Hiſtory of the two
+<pb facs="tcp:60906:68"/>late Plots, againſt the Eſtabliſht Govern<g ref="char:EOLhyphen"/>ment. Price 1s.</p>
+               <p>Poems and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ett<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns on ſeveral occaſions <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Price 1s.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> Councellor. The fourth <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tion.</p>
+               <p>Pleaſant Companion. The ſecond <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>tion. Price <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> on the <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ament.</p>
+            </div>
+            <div type="part">
+               <head>PLAYS.</head>
+               <p>The <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> or the <hi>Miſtake:</hi> Writ<g ref="char:EOLhyphen"/>ten by Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <hi>Remulus</hi> and <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> on the <hi>Sabine</hi> War.</p>
+               <p>The <hi>City Heireſs,</hi> or Sir <hi>Thomas Treat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all.</hi>
+               </p>
+               <p>The <hi>Roundheads,</hi> or the <hi>Good Old Cauſe.</hi>
+               </p>
+               <p>Three Farces Acted before the King and Court at <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>The <hi>Merry Milk Maids</hi> of <hi>Iſlington,</hi> or the <hi>Rambling Gallants</hi> defeated.</p>
+               <p>
+                  <hi>Love loſt in the Dark,</hi> or the <hi>Drunken Coupple.</hi>
+               </p>
+               <p>The <hi>Politick Whore,</hi> or the <hi>Conceited Cuckhold.</hi>
+               </p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
